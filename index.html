@@ -1,0 +1,669 @@
+<!DOCTYPE html>
+<html lang="zxx">
+
+
+<!-- Mirrored from elanta.app/nazar/starbelly-demo/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 18 Apr 2022 18:37:00 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <!-- color of address bar in mobile browser -->
+  <meta name="theme-color" content="#F5C332">
+  <!-- favicon  -->
+  <link rel="shortcut icon" href="img/ui/logo.ico" type="image/x-icon">
+  <!-- font awesome css -->
+  <link rel="stylesheet" href="css/plugins/font-awesome.min.css">
+  <!-- bootstrap css -->
+  <link rel="stylesheet" href="css/plugins/bootstrap.min.css">
+  <!-- swiper css -->
+  <link rel="stylesheet" href="css/plugins/swiper.min.css">
+  <!-- datepicker css -->
+  <link rel="stylesheet" href="css/plugins/datepicker.css">
+  <!-- mapbox css -->
+  <link href="css/plugins/mapbox-style.css" rel='stylesheet'>
+  <!-- fancybox css -->
+  <link rel="stylesheet" href="css/plugins/fancybox.min.css">
+  <!-- starbelly css -->
+  <link rel="stylesheet" href="css/style.css">
+
+  <style>
+    .sb-page {
+      transition: .3s;
+      margin-top: 20px;
+      margin-bottom: 30px;
+    }
+
+    .sb-page:hover {
+      transform: translateY(-10px);
+    }
+  </style>
+  <!-- page title -->
+  <title>Starbelly</title>
+</head>
+
+<body>
+  <!-- app wrapper -->
+  <div class="sb-app">
+    <!-- preloader -->
+    <div class="sb-preloader">
+      <div class="sb-preloader-bg"></div>
+      <div class="sb-preloader-body">
+        <div class="sb-loading">
+          <div class="sb-percent"><span class="sb-preloader-number" data-count="101">00</span><span>%</span></div>
+        </div>
+        <div class="sb-loading-bar">
+          <div class="sb-bar"></div>
+        </div>
+      </div>
+    </div>
+    <!-- preloader end -->
+    <!-- click effect -->
+    <div class="sb-click-effect"></div>
+    <!-- loader -->
+    <div class="sb-load"></div>
+    <!-- top bar -->
+    <div class="sb-top-bar-frame">
+      <div class="sb-top-bar-bg"></div>
+      <div class="container">
+        <div class="sb-top-bar">
+          <a href="home-1.html" class="sb-logo-frame" target="_blank" data-no-swup>
+            <!-- logo img -->
+            <img src="img/ui/logo.svg" alt="Starbelly">
+          </a>
+          <!-- menu -->
+          <div class="sb-right-side">
+            <nav id="sb-dynamic-menu" class="sb-menu-transition">
+              <ul class="sb-navigation">
+                <li class="sb-active sb-has-children">
+                  <a href="home-1.html" target="_blank" data-no-swup>Home</a>
+                  <ul>
+                    <li><a href="home-1.html" target="_blank" data-no-swup>Type 1</a></li>
+                    <li><a href="home-2.html" target="_blank" data-no-swup>Type 2</a></li>
+                  </ul>
+                </li>
+                <li class="sb-has-children">
+                  <a href="about-1.html" target="_blank" data-no-swup>Pages</a>
+                  <ul>
+                    <li><a href="about-1.html" target="_blank" data-no-swup>About 1</a></li>
+                    <li><a href="about-2.html" target="_blank" data-no-swup>About 2</a></li>
+                    <li><a href="blog-1.html" target="_blank" data-no-swup>Blog style 1</a></li>
+                    <li><a href="blog-2.html" target="_blank" data-no-swup>Blog style 2</a></li>
+                    <li><a href="blog-3.html" target="_blank" data-no-swup>Blog style 3</a></li>
+                    <li><a href="publication-1.html" target="_blank" data-no-swup>Publication 1</a></li>
+                    <li><a href="publication-2.html" target="_blank" data-no-swup>Publication 2</a></li>
+                    <li><a href="publication-3.html" target="_blank" data-no-swup>Publication 3</a></li>
+                    <li><a href="gallery.html" target="_blank" data-no-swup>Gallery</a></li>
+                    <li><a href="gallery-2.html" target="_blank" data-no-swup>Gallery 2</a></li>
+                    <li><a href="reviews.html" target="_blank" data-no-swup>Reviews</a></li>
+                    <li><a href="reservation.html" target="_blank" data-no-swup>Reservation</a></li>
+                    <li><a href="faq.html" target="_blank" data-no-swup>FAQ</a></li>
+                    <li><a href="404.html" target="_blank" data-no-swup>404</a></li>
+                  </ul>
+                </li>
+                <li class="sb-has-children">
+                  <a href="menu-1.html" target="_blank" data-no-swup>Menu</a>
+                  <ul>
+                    <li><a href="menu-1.html" target="_blank" data-no-swup>Menu style 1</a></li>
+                    <li><a href="menu-2.html" target="_blank" data-no-swup>Menu style 2</a></li>
+                    <li><a href="menu-3.html" target="_blank" data-no-swup>Menu style 3</a></li>
+                    <li><a href="menu-4.html" target="_blank" data-no-swup>Menu style 4</a></li>
+                    <li><a href="menu-5.html" target="_blank" data-no-swup>Menu style 5</a></li>
+                    <li><a href="menu-6.html" target="_blank" data-no-swup>Menu style 6</a></li>
+                  </ul>
+                </li>
+                <li class="sb-has-children">
+                  <a href="shop-1.html" target="_blank" data-no-swup>Shop</a>
+                  <ul>
+                    <li><a href="shop-1.html" target="_blank" data-no-swup>Shop style 1</a></li>
+                    <li><a href="shop-2.html" target="_blank" data-no-swup>Shop style 2</a></li>
+                    <li><a href="shop-list-1.html" target="_blank" data-no-swup>Shop list 1</a></li>
+                    <li><a href="shop-list-2.html" target="_blank" data-no-swup>Shop list 2</a></li>
+                    <li><a href="product.html" target="_blank" data-no-swup>Product page</a></li>
+                    <li><a href="cart.html" target="_blank" data-no-swup>Cart</a></li>
+                    <li><a href="checkout.html" target="_blank" data-no-swup>Checkout</a></li>
+                  </ul>
+                </li>
+                <li>
+                  <a href="contact.html" target="_blank" data-no-swup>Contact</a>
+                </li>
+              </ul>
+            </nav>
+            <div class="sb-buttons-frame">
+              <!-- button -->
+              <a href="https://themeforest.net/item/starbelly-restaurant-html-template/34437265" class="sb-btn" target="_blank" data-no-swup>
+                <span class="sb-icon">
+                  <img src="img/ui/icons/cart.svg" alt="icon">
+                </span>
+                <span>Purchase</span>
+              </a>
+              <!-- button end -->
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- top bar end -->
+
+    <!-- dynamic content -->
+    <div id="sb-dynamic-content" class="sb-transition-fade">
+
+      <!-- banner -->
+      <section class="sb-banner sb-banner-sm sb-banner-color">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-12">
+              <!-- main title -->
+              <div class="sb-main-title-frame">
+                <div class="sb-main-title text-center">
+                  <span class="sb-suptitle sb-mb-30">Welcome!</span>
+                  <h1 class="sb-mb-30">Starbelly <span>html</span> template</h1>
+                  <p class="sb-text sb-text-lg sb-mb-30">Modern, Clean and Professional site template. Prefect for restaurant, Fastfood, Bakery, Cafe, Pub, Bar, Catering, and any food business.</p>
+                  <!-- button -->
+                  <a href="home-1.html" class="sb-btn" target="_blank" data-no-swup>
+                    <span class="sb-icon">
+                      <img src="img/ui/icons/arrow.svg" alt="icon">
+                    </span>
+                    <span>View demo</span>
+                  </a>
+                  <!-- button end -->
+                  <!-- button -->
+                  <a href="https://themeforest.net/item/starbelly-restaurant-html-template/34437265" class="sb-btn" target="_blank" data-no-swup>
+                    <span class="sb-icon">
+                      <img src="img/ui/icons/cart.svg" alt="icon">
+                    </span>
+                    <span>Purchase</span>
+                  </a>
+                  <!-- button end -->
+                </div>
+              </div>
+              <!-- main title end -->
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- banner end -->
+
+      <!-- pages -->
+      <section class="sb-short-menu sb-p-90-0">
+        <div class="sb-bg-1">
+          <div></div>
+        </div>
+        <div class="container">
+          <div class="sb-mb-60">
+            <h2 class="sb-cate-title">Home <span>pages</span></h2>
+          </div>
+          <div class="row">
+            <div class="col-lg-6">
+
+              <a href="home-1.html" style="width: 100%; display: block; box-shadow: 0 0 12px 0 rgba(0,0,0,.08);" class="sb-page" data-no-swup target="_blank">
+                <img src="demo/1.png" alt="page" style="width: 100%;">
+              </a>
+
+            </div>
+            <div class="col-lg-6">
+
+              <a href="home-2.html" style="width: 100%; display: block; box-shadow: 0 0 12px 0 rgba(0,0,0,.08);" class="sb-page" data-no-swup target="_blank">
+                <img src="demo/2.png" alt="page" style="width: 100%;">
+              </a>
+
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- pages end -->
+
+      <!-- pages -->
+      <section class="sb-p-90-0">
+        <div class="container">
+          <div class="sb-group-title sb-mb-10">
+            <div class="sb-left sb-mb-10">
+              <h2 class="sb-cate-title">Menu <span>pages</span></h2>
+            </div>
+            <div class="sb-right sb-mb-10">
+              <!-- slider navigation -->
+              <div class="sb-slider-nav">
+                <div class="sb-prev-btn sb-blog-prev-1"><i class="fas fa-arrow-left"></i></div>
+                <div class="sb-next-btn sb-blog-next-1"><i class="fas fa-arrow-right"></i></div>
+              </div>
+              <!-- slider navigation end -->
+              <!-- button -->
+              <a href="menu-1.html" class="sb-btn" data-no-swup target="_blank">
+                <span class="sb-icon">
+                  <img src="img/ui/icons/arrow.svg" alt="icon">
+                </span>
+                <span>All menu pages</span>
+              </a>
+              <!-- button end -->
+            </div>
+          </div>
+          <div class="swiper-container sb-demo-1">
+            <div class="swiper-wrapper">
+              <div class="swiper-slide">
+
+                <a href="menu-1.html" style="width: 100%; display: block; box-shadow: 0 0 12px 0 rgba(0,0,0,.08); margin-bottom: 30px" class="sb-page" data-no-swup target="_blank">
+                  <img src="demo/3.png" alt="page" style="width: 100%;">
+                </a>
+
+              </div>
+              <div class="swiper-slide">
+
+                <a href="menu-2.html" style="width: 100%; display: block; box-shadow: 0 0 12px 0 rgba(0,0,0,.08); margin-bottom: 30px" class="sb-page" data-no-swup target="_blank">
+                  <img src="demo/4.png" alt="page" style="width: 100%;">
+                </a>
+
+              </div>
+              <div class="swiper-slide">
+
+                <a href="menu-3.html" style="width: 100%; display: block; box-shadow: 0 0 12px 0 rgba(0,0,0,.08); margin-bottom: 30px" class="sb-page" data-no-swup target="_blank">
+                  <img src="demo/5.png" alt="page" style="width: 100%;">
+                </a>
+
+              </div>
+              <div class="swiper-slide">
+
+                <a href="menu-4.html" style="width: 100%; display: block; box-shadow: 0 0 12px 0 rgba(0,0,0,.08); margin-bottom: 30px" class="sb-page" data-no-swup target="_blank">
+                  <img src="demo/6.png" alt="page" style="width: 100%;">
+                </a>
+
+              </div>
+              <div class="swiper-slide">
+
+                <a href="menu-5.html" style="width: 100%; display: block; box-shadow: 0 0 12px 0 rgba(0,0,0,.08); margin-bottom: 30px" class="sb-page" data-no-swup target="_blank">
+                  <img src="demo/7.png" alt="page" style="width: 100%;">
+                </a>
+
+              </div>
+              <div class="swiper-slide">
+
+                <a href="menu-6.html" style="width: 100%; display: block; box-shadow: 0 0 12px 0 rgba(0,0,0,.08); margin-bottom: 30px" class="sb-page" data-no-swup target="_blank">
+                  <img src="demo/8.png" alt="page" style="width: 100%;">
+                </a>
+
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- pages end -->
+
+      <!-- pages -->
+      <section class="sb-short-menu sb-p-60-0">
+        <div class="container">
+          <div class="sb-group-title sb-mb-30">
+            <div class="sb-left sb-mb-30">
+              <h2 class="sb-cate-title">Shop <span>pages</span></h2>
+            </div>
+            <div class="sb-right sb-mb-30">
+              <!-- slider navigation -->
+              <div class="sb-slider-nav">
+                <div class="sb-prev-btn sb-blog-prev-2"><i class="fas fa-arrow-left"></i></div>
+                <div class="sb-next-btn sb-blog-next-2"><i class="fas fa-arrow-right"></i></div>
+              </div>
+              <!-- slider navigation end -->
+              <!-- button -->
+              <a href="shop-1.html" class="sb-btn" data-no-swup target="_blank">
+                <span class="sb-icon">
+                  <img src="img/ui/icons/arrow.svg" alt="icon">
+                </span>
+                <span>All shop pages</span>
+              </a>
+              <!-- button end -->
+            </div>
+          </div>
+          <div class="swiper-container sb-demo-2">
+            <div class="swiper-wrapper">
+              <div class="swiper-slide">
+
+                <a href="shop-1.html" style="width: 100%; display: block; box-shadow: 0 0 12px 0 rgba(0,0,0,.08); margin-bottom: 30px" class="sb-page" data-no-swup target="_blank">
+                  <img src="demo/9.png" alt="page" style="width: 100%;">
+                </a>
+
+              </div>
+              <div class="swiper-slide">
+
+                <a href="shop-2.html" style="width: 100%; display: block; box-shadow: 0 0 12px 0 rgba(0,0,0,.08); margin-bottom: 30px" class="sb-page" data-no-swup target="_blank">
+                  <img src="demo/10.png" alt="page" style="width: 100%;">
+                </a>
+
+              </div>
+              <div class="swiper-slide">
+
+                <a href="shop-list-1.html" style="width: 100%; display: block; box-shadow: 0 0 12px 0 rgba(0,0,0,.08); margin-bottom: 30px" class="sb-page" data-no-swup target="_blank">
+                  <img src="demo/11.png" alt="page" style="width: 100%;">
+                </a>
+
+              </div>
+              <div class="swiper-slide">
+
+                <a href="shop-list-2.html" style="width: 100%; display: block; box-shadow: 0 0 12px 0 rgba(0,0,0,.08); margin-bottom: 30px" class="sb-page" data-no-swup target="_blank">
+                  <img src="demo/12.png" alt="page" style="width: 100%;">
+                </a>
+
+              </div>
+              <div class="swiper-slide">
+
+                <a href="product.html" style="width: 100%; display: block; box-shadow: 0 0 12px 0 rgba(0,0,0,.08); margin-bottom: 30px" class="sb-page" data-no-swup target="_blank">
+                  <img src="demo/13.png" alt="page" style="width: 100%;">
+                </a>
+
+              </div>
+              <div class="swiper-slide">
+
+                <a href="cart.html" style="width: 100%; display: block; box-shadow: 0 0 12px 0 rgba(0,0,0,.08); margin-bottom: 30px" class="sb-page" data-no-swup target="_blank">
+                  <img src="demo/14.png" alt="page" style="width: 100%;">
+                </a>
+
+              </div>
+              <div class="swiper-slide">
+
+                <a href="checkout.html" style="width: 100%; display: block; box-shadow: 0 0 12px 0 rgba(0,0,0,.08); margin-bottom: 30px" class="sb-page" data-no-swup target="_blank">
+                  <img src="demo/15.png" alt="page" style="width: 100%;">
+                </a>
+
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- pages end -->
+
+      <!-- pages -->
+      <section class="sb-short-menu sb-p-60-0">
+        <div class="sb-bg-2">
+          <div></div>
+        </div>
+        <div class="container">
+          <div class="sb-group-title sb-mb-30">
+            <div class="sb-left sb-mb-30">
+              <h2 class="sb-cate-title">Blog <span>pages</span></h2>
+            </div>
+            <div class="sb-right sb-mb-30">
+              <!-- slider navigation -->
+              <div class="sb-slider-nav">
+                <div class="sb-prev-btn sb-blog-prev-3"><i class="fas fa-arrow-left"></i></div>
+                <div class="sb-next-btn sb-blog-next-3"><i class="fas fa-arrow-right"></i></div>
+              </div>
+              <!-- slider navigation end -->
+              <!-- button -->
+              <a href="blog-1.html" class="sb-btn" data-no-swup target="_blank">
+                <span class="sb-icon">
+                  <img src="img/ui/icons/arrow.svg" alt="icon">
+                </span>
+                <span>All blog pages</span>
+              </a>
+              <!-- button end -->
+            </div>
+          </div>
+          <div class="swiper-container sb-demo-3">
+            <div class="swiper-wrapper">
+              <div class="swiper-slide">
+
+                <a href="blog-1.html" style="width: 100%; display: block; box-shadow: 0 0 12px 0 rgba(0,0,0,.08); margin-bottom: 30px" class="sb-page" data-no-swup target="_blank">
+                  <img src="demo/16.png" alt="page" style="width: 100%;">
+                </a>
+
+              </div>
+              <div class="swiper-slide">
+
+                <a href="blog-2.html" style="width: 100%; display: block; box-shadow: 0 0 12px 0 rgba(0,0,0,.08); margin-bottom: 30px" class="sb-page" data-no-swup target="_blank">
+                  <img src="demo/17.png" alt="page" style="width: 100%;">
+                </a>
+
+              </div>
+              <div class="swiper-slide">
+
+                <a href="blog-3.html" style="width: 100%; display: block; box-shadow: 0 0 12px 0 rgba(0,0,0,.08); margin-bottom: 30px" class="sb-page" data-no-swup target="_blank">
+                  <img src="demo/18.png" alt="page" style="width: 100%;">
+                </a>
+
+              </div>
+              <div class="swiper-slide">
+
+                <a href="publication-1.html" style="width: 100%; display: block; box-shadow: 0 0 12px 0 rgba(0,0,0,.08); margin-bottom: 30px" class="sb-page" data-no-swup target="_blank">
+                  <img src="demo/19.png" alt="page" style="width: 100%;">
+                </a>
+
+              </div>
+              <div class="swiper-slide">
+
+                <a href="publication-2.html" style="width: 100%; display: block; box-shadow: 0 0 12px 0 rgba(0,0,0,.08); margin-bottom: 30px" class="sb-page" data-no-swup target="_blank">
+                  <img src="demo/20.png" alt="page" style="width: 100%;">
+                </a>
+
+              </div>
+              <div class="swiper-slide">
+
+                <a href="publication-3.html" style="width: 100%; display: block; box-shadow: 0 0 12px 0 rgba(0,0,0,.08); margin-bottom: 30px" class="sb-page" data-no-swup target="_blank">
+                  <img src="demo/21.png" alt="page" style="width: 100%;">
+                </a>
+
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- pages end -->
+
+      <!-- pages -->
+      <section class="sb-short-menu sb-p-60-60">
+        <div class="container">
+          <div class="sb-mb-60">
+            <h2 class="sb-cate-title">Other <span>pages</span></h2>
+          </div>
+          <div class="row">
+            <div class="col-lg-4">
+
+              <a href="about-1.html" style="width: 100%; display: block; box-shadow: 0 0 12px 0 rgba(0,0,0,.08); margin-bottom: 30px" class="sb-page" data-no-swup target="_blank">
+                <img src="demo/22.png" alt="page" style="width: 100%;">
+              </a>
+
+            </div>
+            <div class="col-lg-4">
+
+              <a href="about-2.html" style="width: 100%; display: block; box-shadow: 0 0 12px 0 rgba(0,0,0,.08); margin-bottom: 30px" class="sb-page" data-no-swup target="_blank">
+                <img src="demo/23.png" alt="page" style="width: 100%;">
+              </a>
+
+            </div>
+            <div class="col-lg-4">
+
+              <a href="gallery.html" style="width: 100%; display: block; box-shadow: 0 0 12px 0 rgba(0,0,0,.08); margin-bottom: 30px" class="sb-page" data-no-swup target="_blank">
+                <img src="demo/24.png" alt="page" style="width: 100%;">
+              </a>
+
+            </div>
+            <div class="col-lg-4">
+
+              <a href="gallery-2.html" style="width: 100%; display: block; box-shadow: 0 0 12px 0 rgba(0,0,0,.08); margin-bottom: 30px" class="sb-page" data-no-swup target="_blank">
+                <img src="demo/25.png" alt="page" style="width: 100%;">
+              </a>
+
+            </div>
+            <div class="col-lg-4">
+
+              <a href="reviews.html" style="width: 100%; display: block; box-shadow: 0 0 12px 0 rgba(0,0,0,.08); margin-bottom: 30px" class="sb-page" data-no-swup target="_blank">
+                <img src="demo/26.png" alt="page" style="width: 100%;">
+              </a>
+
+            </div>
+            <div class="col-lg-4">
+
+              <a href="contact.html" style="width: 100%; display: block; box-shadow: 0 0 12px 0 rgba(0,0,0,.08); margin-bottom: 30px" class="sb-page" data-no-swup target="_blank">
+                <img src="demo/27.png" alt="page" style="width: 100%;">
+              </a>
+
+            </div>
+            <div class="col-lg-4">
+
+              <a href="reservation.html" style="width: 100%; display: block; box-shadow: 0 0 12px 0 rgba(0,0,0,.08); margin-bottom: 30px" class="sb-page" data-no-swup target="_blank">
+                <img src="demo/28.png" alt="page" style="width: 100%;">
+              </a>
+
+            </div>
+            <div class="col-lg-4">
+
+              <a href="faq.html" style="width: 100%; display: block; box-shadow: 0 0 12px 0 rgba(0,0,0,.08); margin-bottom: 30px" class="sb-page" data-no-swup target="_blank">
+                <img src="demo/29.png" alt="page" style="width: 100%;">
+              </a>
+
+            </div>
+            <div class="col-lg-4">
+
+              <a href="404.html" style="width: 100%; display: block; box-shadow: 0 0 12px 0 rgba(0,0,0,.08); margin-bottom: 30px" class="sb-page" data-no-swup target="_blank">
+                <img src="demo/30.png" alt="page" style="width: 100%;">
+              </a>
+
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- pages end -->
+
+      <!-- call to action -->
+      <section class="sb-call-to-action">
+        <div class="sb-bg-3"></div>
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-9 sb-p-60-60">
+              <div class="sb-cta-text">
+                <h2 class="sb-h1 sb-mb-30">Try the demo on <br>your phone</h2>
+                <p class="sb-text sb-mb-30">Scan the qr code with your phone's camera.</p>
+                <!-- button -->
+                <a href="https://themeforest.net/item/starbelly-restaurant-html-template/34437265" class="sb-btn" target="_blank" data-no-swup>
+                  <span class="sb-icon">
+                    <img src="img/ui/icons/cart.svg" alt="icon">
+                  </span>
+                  <span>Purchase</span>
+                </a>
+                <!-- button end -->
+                <!-- button -->
+                <a href="home-1.html" class="sb-btn sb-btn-2 sb-btn-gray" data-no-swup target="_blank">
+                  <span class="sb-icon">
+                    <img src="img/ui/icons/arrow.svg" alt="icon">
+                  </span>
+                  <span>Desktop demo</span>
+                </a>
+                <!-- button end -->
+              </div>
+            </div>
+            <div class="col-lg-3 align-self-center">
+              <div class="">
+                <img src="demo/qr.png" alt="qr code" style="width: 100%;">
+
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- call to action end -->
+
+      <!-- footer -->
+      <footer>
+        <div class="container">
+          <div class="sb-footer-frame">
+            <a href="home-1.html" class="sb-logo-frame">
+              <!-- logo img -->
+              <img src="img/ui/logo.svg" alt="Starbelly">
+            </a>
+            <ul class="sb-social">
+              <li><a href="#."><i class="fab fa-twitter"></i></a></li>
+              <li><a href="#."><i class="fab fa-instagram"></i></a></li>
+              <li><a href="#."><i class="fab fa-facebook-f"></i></a></li>
+              <li><a href="#."><i class="fab fa-youtube"></i></a></li>
+            </ul>
+            <div class="sb-copy">&copy; late 2021 Starbelly. All Rights Reserved.</div>
+          </div>
+        </div>
+      </footer>
+      <!-- footer end -->
+
+    </div>
+    <!-- dynamic content end -->
+
+  </div>
+  <!-- app wrapper end -->
+
+  <!-- jquery js -->
+  <script src="js/plugins/jquery.min.js"></script>
+  <!-- smooth scroll js -->
+  <script src="js/plugins/smooth-scroll.js"></script>
+  <!-- swup js -->
+  <script src="js/plugins/swup.min.js"></script>
+  <!-- swiper js -->
+  <script src="js/plugins/swiper.min.js"></script>
+  <!-- datepicker js -->
+  <script src="js/plugins/datepicker.js"></script>
+  <!-- isotope js -->
+  <script src="js/plugins/isotope.js"></script>
+  <!-- sticky -->
+  <script src="js/plugins/sticky.js"></script>
+  <!-- mapbox js -->
+  <script src="js/plugins/mapbox.min.js"></script>
+  <!-- fancybox js -->
+  <script src="js/plugins/fancybox.min.js"></script>
+  <!-- starbelly js -->
+  <script src="js/main.js"></script>
+
+  <script>
+    var swiper = new Swiper('.sb-demo-1', {
+      slidesPerView: 3,
+      spaceBetween: 30,
+      parallax: true,
+      speed: 1000,
+      navigation: {
+        prevEl: '.sb-blog-prev-1',
+        nextEl: '.sb-blog-next-1',
+      },
+      breakpoints: {
+        992: {
+          slidesPerView: 2,
+        },
+        768: {
+          slidesPerView: 1,
+        },
+      },
+    });
+    var swiper = new Swiper('.sb-demo-2', {
+      slidesPerView: 3,
+      spaceBetween: 30,
+      parallax: true,
+      speed: 1000,
+      navigation: {
+        prevEl: '.sb-blog-prev-2',
+        nextEl: '.sb-blog-next-2',
+      },
+      breakpoints: {
+        992: {
+          slidesPerView: 2,
+        },
+        768: {
+          slidesPerView: 1,
+        },
+      },
+    });
+    var swiper = new Swiper('.sb-demo-3', {
+      slidesPerView: 3,
+      spaceBetween: 30,
+      parallax: true,
+      speed: 1000,
+      navigation: {
+        prevEl: '.sb-blog-prev-3',
+        nextEl: '.sb-blog-next-3',
+      },
+      breakpoints: {
+        992: {
+          slidesPerView: 2,
+        },
+        768: {
+          slidesPerView: 1,
+        },
+      },
+    });
+  </script>
+
+</body>
+
+
+<!-- Mirrored from elanta.app/nazar/starbelly-demo/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 18 Apr 2022 18:38:22 GMT -->
+</html>
