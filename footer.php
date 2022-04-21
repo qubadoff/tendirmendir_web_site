@@ -7,8 +7,8 @@
                             <img src="<?=LINK?>/assets/img/ui/logo.png" alt="TendirMendir">
                         </a>
                         <ul class="sb-social">
-                            <li><a href="https://www.facebook.com/tendirmendirbaku/" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-                            <li><a href="https://www.instagram.com/tendirmendirbaku/" target="_blank"><i class="fab fa-instagram"></i></a></li>
+                            <li><a href="get.php?get=fb" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+                            <li><a href="get.php?get=ig" target="_blank"><i class="fab fa-instagram"></i></a></li>
                         </ul>
                         <div class="sb-copy">&copy; <a href="https://tendirmendir.az">TendirMendir</a></div>
                     </div>
@@ -43,9 +43,5 @@
     <script src="<?=LINK?>/assets/js/main.js"></script>
 
 
-
-
-
 </body>
-
 </html>

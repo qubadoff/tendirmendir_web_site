@@ -121,8 +121,8 @@
                 </div>
                 <div class="sb-info-bar-footer">
                     <ul class="sb-social">
-                        <li><a href="https://facebook.com/tendirmendirbaku"><i class="fab fa-facebook-f"></i></a></li>
-                        <li><a href="https://instagram.com/tendirmendirbbaku"><i class="fab fa-instagram"></i></a></li>
+                        <li><a href="get.php?get=fb" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+                        <li><a href="get.php?get=ig" target="_blank"><i class="fab fa-instagram"></i></a></li>
                     </ul>
                 </div>
             </div>
