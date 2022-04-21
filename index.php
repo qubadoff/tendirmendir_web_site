@@ -17,7 +17,22 @@
                                     <span class="sb-suptitle sb-mb-30">Tendir Mendir</span>
                                     <h1 class="sb-mb-30">Təndir Məndir, Azərbaycanın <span> sürətli </span> qidalanma və qida çatdırılması brendidir. </h1>
                                     <p class="sb-text sb-text-lg sb-mb-30">Məqsəd – Ən çox tanınan milli brend olmaq! Dünya miqyaslı brend olmaq.</p>
-                                    
+                                                      <!-- button -->
+                  <a href="menu.php" class="sb-btn">
+                    <span class="sb-icon">
+                      <img src="<?=LINK?>/assets/img/ui/icons/menu.svg" alt="icon">
+                    </span>
+                    <span>Menyu</span>
+                  </a>
+                  <!-- button end -->
+                  <!-- button -->
+                  <a href="about.php" class="sb-btn sb-btn-2 sb-btn-gray">
+                    <span class="sb-icon">
+                      <img src="<?=LINK?>/assets/img/ui/icons/arrow.svg" alt="icon">
+                    </span>
+                    <span>Haqqımızda</span>
+                  </a>
+                  <!-- button end -->
                                 </div>
                             </div>
                             <!-- main title end -->
@@ -113,7 +128,7 @@
                                         <img src="<?=LINK?>/assets/img/categories/1.png" alt="icon">
                                     </div>
                                     <div class="sb-card-descr">
-                                        <h3 class="sb-mb-10">Qəlyanaltılar</h3>
+                                        <h3 class="sb-mb-10">Manqal yeməkləri</h3>
                                         <p class="sb-text">Əsas yeməkdən qabağ atıştırmalıqlar.</p>
                                     </div>
                                 </div>
@@ -126,7 +141,7 @@
                                         <img src="<?=LINK?>/assets/img/categories/2.png" alt="icon">
                                     </div>
                                     <div class="sb-card-descr">
-                                        <h3 class="sb-mb-10">Əsas yeməklər</h3>
+                                        <h3 class="sb-mb-10">Təndir yeməklər</h3>
                                         <p class="sb-text">Əsas yeməklərimizin dadı damağınızda qalacaq.</p>
                                     </div>
                                 </div>
@@ -204,13 +219,6 @@
                                     </div>
                                     <div class="sb-description">
                                         <p class="sb-text sb-mb-15"><span>tomatoes</span>, <span>nori</span>, <span>feta cheese</span>, <span>mushrooms</span>, <span>rice noodles</span>, <span>corn</span>, <span>shrimp</span>.</p>
-                                        <ul class="sb-stars">
-                                            <li><i class="fas fa-star"></i></li>
-                                            <li><i class="fas fa-star"></i></li>
-                                            <li><i class="fas fa-star"></i></li>
-                                            <li><i class="fas fa-star"></i></li>
-                                            <li><i class="fas fa-star"></i></li>
-                                        </ul>
                                     </div>
                                 </a>
                             </div>
@@ -225,13 +233,6 @@
                                     </div>
                                     <div class="sb-description">
                                         <p class="sb-text sb-mb-15"><span>tomatoes</span>, <span>nori</span>, <span>feta cheese</span>, <span>mushrooms</span>, <span>rice noodles</span>, <span>corn</span>, <span>shrimp</span>.</p>
-                                        <ul class="sb-stars">
-                                            <li><i class="fas fa-star"></i></li>
-                                            <li><i class="fas fa-star"></i></li>
-                                            <li><i class="fas fa-star"></i></li>
-                                            <li><i class="fas fa-star"></i></li>
-                                            <li><i class="fas fa-star"></i></li>
-                                        </ul>
                                     </div>
                                 </a>
                             </div>
@@ -247,13 +248,6 @@
                                     </div>
                                     <div class="sb-description">
                                         <p class="sb-text sb-mb-15"><span>tomatoes</span>, <span>nori</span>, <span>feta cheese</span>, <span>mushrooms</span>, <span>rice noodles</span>, <span>corn</span>, <span>shrimp</span>.</p>
-                                        <ul class="sb-stars">
-                                            <li><i class="fas fa-star"></i></li>
-                                            <li><i class="fas fa-star"></i></li>
-                                            <li><i class="fas fa-star"></i></li>
-                                            <li><i class="fas fa-star"></i></li>
-                                            <li><i class="fas fa-star"></i></li>
-                                        </ul>
                                     </div>
                                 </a>
                             </div>
@@ -269,13 +263,6 @@
                                     </div>
                                     <div class="sb-description">
                                         <p class="sb-text sb-mb-15"><span>tomatoes</span>, <span>nori</span>, <span>feta cheese</span>, <span>mushrooms</span>, <span>rice noodles</span>, <span>corn</span>, <span>shrimp</span>.</p>
-                                        <ul class="sb-stars">
-                                            <li><i class="fas fa-star"></i></li>
-                                            <li><i class="fas fa-star"></i></li>
-                                            <li><i class="fas fa-star"></i></li>
-                                            <li><i class="fas fa-star"></i></li>
-                                            <li><i class="fas fa-star"></i></li>
-                                        </ul>
                                     </div>
                                 </a>
                             </div>
@@ -291,13 +278,6 @@
                                     </div>
                                     <div class="sb-description">
                                         <p class="sb-text sb-mb-15"><span>tomatoes</span>, <span>nori</span>, <span>feta cheese</span>, <span>mushrooms</span>, <span>rice noodles</span>, <span>corn</span>, <span>shrimp</span>.</p>
-                                        <ul class="sb-stars">
-                                            <li><i class="fas fa-star"></i></li>
-                                            <li><i class="fas fa-star"></i></li>
-                                            <li><i class="fas fa-star"></i></li>
-                                            <li><i class="fas fa-star"></i></li>
-                                            <li><i class="fas fa-star"></i></li>
-                                        </ul>
                                     </div>
                                 </a>
                             </div>
@@ -312,13 +292,6 @@
                                     </div>
                                     <div class="sb-description">
                                         <p class="sb-text sb-mb-15"><span>tomatoes</span>, <span>nori</span>, <span>feta cheese</span>, <span>mushrooms</span>, <span>rice noodles</span>, <span>corn</span>, <span>shrimp</span>.</p>
-                                        <ul class="sb-stars">
-                                            <li><i class="fas fa-star"></i></li>
-                                            <li><i class="fas fa-star"></i></li>
-                                            <li><i class="fas fa-star"></i></li>
-                                            <li><i class="fas fa-star"></i></li>
-                                            <li><i class="fas fa-star"></i></li>
-                                        </ul>
                                     </div>
                                 </a>
                             </div>
@@ -347,12 +320,6 @@
                                 <div class="sb-member-description">
                                     <h4 class="sb-mb-10">Paul Trueman</h4>
                                     <p class="sb-text sb-text-sm sb-mb-10">Chef</p>
-                                    <ul class="sb-social">
-                                        <li><a href="#."><i class="fab fa-twitter"></i></a></li>
-                                        <li><a href="#."><i class="fab fa-instagram"></i></a></li>
-                                        <li><a href="#."><i class="fab fa-facebook-f"></i></a></li>
-                                        <li><a href="#."><i class="fab fa-youtube"></i></a></li>
-                                    </ul>
                                 </div>
                             </div>
                         </div>
@@ -364,12 +331,6 @@
                                 <div class="sb-member-description">
                                     <h3 class="sb-mb-10">Emma Newman</h3>
                                     <p class="sb-text sb-text-sm sb-mb-10">Assistant chef</p>
-                                    <ul class="sb-social">
-                                        <li><a href="#."><i class="fab fa-twitter"></i></a></li>
-                                        <li><a href="#."><i class="fab fa-instagram"></i></a></li>
-                                        <li><a href="#."><i class="fab fa-facebook-f"></i></a></li>
-                                        <li><a href="#."><i class="fab fa-youtube"></i></a></li>
-                                    </ul>
                                 </div>
                             </div>
                         </div>
@@ -381,12 +342,6 @@
                                 <div class="sb-member-description">
                                     <h3 class="sb-mb-10">Oscar Oldman</h3>
                                     <p class="sb-text sb-text-sm sb-mb-10">Chef</p>
-                                    <ul class="sb-social">
-                                        <li><a href="#."><i class="fab fa-twitter"></i></a></li>
-                                        <li><a href="#."><i class="fab fa-instagram"></i></a></li>
-                                        <li><a href="#."><i class="fab fa-facebook-f"></i></a></li>
-                                        <li><a href="#."><i class="fab fa-youtube"></i></a></li>
-                                    </ul>
                                 </div>
                             </div>
                         </div>
@@ -398,12 +353,6 @@
                                 <div class="sb-member-description">
                                     <h3 class="sb-mb-10">Ed Freeman</h3>
                                     <p class="sb-text sb-text-sm sb-mb-10">Assistant chef</p>
-                                    <ul class="sb-social">
-                                        <li><a href="#."><i class="fab fa-twitter"></i></a></li>
-                                        <li><a href="#."><i class="fab fa-instagram"></i></a></li>
-                                        <li><a href="#."><i class="fab fa-facebook-f"></i></a></li>
-                                        <li><a href="#."><i class="fab fa-youtube"></i></a></li>
-                                    </ul>
                                 </div>
                             </div>
                         </div>

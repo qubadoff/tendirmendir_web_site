@@ -68,24 +68,24 @@
                                 <li class="sb-has-children">
                                     <a href="#">Menyu</a>
                                     <ul>
-                                        <li><a href="<?=LINK?>/menu.php?get=clopos1">Tendir Mendir 1</a></li>
-                                        <li><a href="<?=LINK?>/menu.php?get=clopos2">Tendir Mendir 2</a></li>
-                                        <li><a href="<?=LINK?>/menu.php?get=clopos3">Tendir Mendir 3</a></li>
+                                        <li><a href="<?=LINK?>/menu.php?get=clopos1">TendirMendir Tarqovi</a></li>
+                                        <li><a href="<?=LINK?>/menu.php?get=clopos2">TendirMendir İçərişəhər</a></li>
+                                        <li><a href="<?=LINK?>/menu.php?get=clopos3">TendirMendir Nərimanov</a></li>
                                     </ul>
                                 </li>
                                 <li class="sb-has-children">
-                                    <a href="#">Wolt Menyu</a>
+                                    <a href="#">Çatdırılma</a>
                                     <ul>
-                                        <li><a href="<?=LINK?>/menu.php?get=wolt1">Tendir Mendir 1</a></li>
-                                        <li><a href="<?=LINK?>/menu.php?get=wolt2">Tendir Mendir 2</a></li>
-                                        <li><a href="<?=LINK?>/menu.php?get=wolt3">Tendir Mendir 3</a></li>
+                                        <li><a href="#">TendirMendir Tarqovi</a></li>
+                                        <li><a href="#">TendirMendir İçərişəhər</a></li>
+                                        <li><a href="#">TendirMendir Nərimanov</a></li>
                                     </ul>
-                                </li>
-                                <li class="sb-has-children">
-                                    <a href="#">Bolt Menyu</a>
                                 </li>
                                 <li>
                                     <a href="rezerv.php">Rezervasiya</a>
+                                </li>
+                                <li>
+                                    <a href="about.php">Haqqımızda</a>
                                 </li>
                             </ul>
                         </nav>
@@ -109,7 +109,7 @@
             <div class="sb-info-bar">
                 <div class="sb-infobar-content">
                     <div class="sb-ib-title-frame sb-mb-30">
-                        <h4> Ünvanlar :</h4><i class="fas fa-arrow-down"></i>
+                        <h4> Filiallar :</h4><i class="fas fa-arrow-down"></i>
                     </div>
                     <ul class="sb-list sb-mb-30">
                         <li><b>Tarqovi :</b><span>Mərdanov qardaşları. 1/5</span></li>
@@ -119,9 +119,7 @@
                         <div class="sb-ib-title-frame sb-mb-30">
                         <h4> Əlaqə :</h4><i class="fas fa-arrow-down"></i>
                         </div>
-                        <li><b>Tarqovi:</b><span><a href="tel:+994997670019">099-767-00-19</a></span></li>
-                        <li><b>İçəri Şəhər:</b><span><a href="tel:+994779111919">099-767-00-19</a></span></li>
-                        <li><b>N.Nərimanov:</b><span><a href="tel:+994997970019">099-767-00-19</a></span></li>
+                        <li><b>Nömrə:</b><span><a href="tel:*0019">*0019</a></span></li>
                         <li><b>Email:</b><span>info@tendirmendir.az</span></li>
                     </ul>
                     <hr>

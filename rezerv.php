@@ -110,7 +110,7 @@
                 <div class="sb-number">01</div>
                 <div class="sb-feature-text">
                   <h3 class="sb-mb-15">Ünvan</h3>
-                  <p class="sb-text">Montréal, 1510 Rue Sauvé</p>
+                  <p class="sb-text">Mərdanov qardaşları. 1/5</p>
                 </div>
               </div>
             </div>
@@ -119,7 +119,7 @@
                 <div class="sb-number">02</div>
                 <div class="sb-feature-text">
                   <h3 class="sb-mb-15">Nömrə</h3>
-                  <p class="sb-text">+02 (044) 756-X6-52</p>
+                  <p class="sb-text">*0019</p>
                 </div>
               </div>
             </div>
@@ -128,7 +128,7 @@
                 <div class="sb-number">03</div>
                 <div class="sb-feature-text">
                   <h3 class="sb-mb-15">Email</h3>
-                  <p class="sb-text">starbelly@mail.com</p>
+                  <p class="sb-text">info@tendirmendir.az</p>
                 </div>
               </div>
             </div>
