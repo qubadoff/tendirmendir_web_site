@@ -121,77 +121,12 @@
                 </div>
                 <div class="sb-info-bar-footer">
                     <ul class="sb-social">
-                        <li><a href="get.php?get=fb" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-                        <li><a href="get.php?get=ig" target="_blank"><i class="fab fa-instagram"></i></a></li>
+                        <li><a href="//fb.com/tenidrmendirbaku" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+                        <li><a href="//instagram.com/tendirmendirbaku" target="_blank"><i class="fab fa-instagram"></i></a></li>
                     </ul>
                 </div>
             </div>
             <!-- info bar end -->
-            <!-- minicart -->
-            <div class="sb-minicart">
-                <div class="sb-minicart-content">
-                    <div class="sb-ib-title-frame sb-mb-30">
-                        <h4>Your order.</h4><i class="fas fa-arrow-down"></i>
-                    </div>
-                    <a href="product.html" class="sb-menu-item sb-menu-item-sm sb-mb-15">
-                        <div class="sb-cover-frame">
-                            <img src="<?=LINK?>/assets/img/menu/4.jpg" alt="product">
-                        </div>
-                        <div class="sb-card-tp">
-                            <h4 class="sb-card-title">Saumon Gravlax</h4>
-                            <div class="sb-price"><sub>$</sub> 9</div>
-                        </div>
-                    </a>
-                    <a href="product.html" class="sb-menu-item sb-menu-item-sm sb-mb-15">
-                        <div class="sb-cover-frame">
-                            <img src="<?=LINK?>/assets/img/menu/1.jpg" alt="product">
-                        </div>
-                        <div class="sb-card-tp">
-                            <h4 class="sb-card-title">Chevrefrit au miel</h4>
-                            <div class="sb-price"><sub>$</sub> 14</div>
-                        </div>
-                    </a>
-                    <a href="product.html" class="sb-menu-item sb-menu-item-sm sb-mb-15">
-                        <div class="sb-cover-frame">
-                            <img src="<?=LINK?>/assets/img/menu/2.jpg" alt="product">
-                        </div>
-                        <div class="sb-card-tp">
-                            <h4 class="sb-card-title">Croustillant de poisson</h4>
-                            <div class="sb-price"><sub>$</sub> 4</div>
-                        </div>
-                    </a>
-                    <a href="product.html" class="sb-menu-item sb-menu-item-sm sb-mb-15">
-                        <div class="sb-cover-frame">
-                            <img src="<?=LINK?>/assets/img/menu/3.jpg" alt="product">
-                        </div>
-                        <div class="sb-card-tp">
-                            <h4 class="sb-card-title">Stracciatella</h4>
-                            <div class="sb-price"><sub>$</sub> 11</div>
-                        </div>
-                    </a>
-                    <a href="product.html" class="sb-menu-item sb-menu-item-sm sb-mb-15">
-                        <div class="sb-cover-frame">
-                            <img src="<?=LINK?>/assets/img/menu/5.jpg" alt="product">
-                        </div>
-                        <div class="sb-card-tp">
-                            <h4 class="sb-card-title">Carpaccio de daurade</h4>
-                            <div class="sb-price"><sub>$</sub> 19</div>
-                        </div>
-                    </a>
-                </div>
-                <div class="sb-minicart-footer">
-                    <!-- button -->
-                    <a href="cart.html" class="sb-btn sb-btn-gray sb-btn-text">
-                        <span>View order</span>
-                    </a>
-                    <!-- button end -->
-                    <!-- button -->
-                    <a href="checkout.html" class="sb-btn sb-btn-text">
-                        <span>Checkout</span>
-                    </a>
-                    <!-- button end -->
-                </div>
-            </div>
-            <!-- minicart end -->
+
         </div>
         <!-- top bar end -->

@@ -7,10 +7,10 @@
                             <img src="<?=LINK?>/assets/img/ui/logo.png" alt="TendirMendir">
                         </a>
                         <ul class="sb-social">
-                            <li><a href="get.php?get=fb" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-                            <li><a href="get.php?get=ig" target="_blank"><i class="fab fa-instagram"></i></a></li>
+                            <li><a href="//fb.com/tendirmendirbaku" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+                            <li><a href="//instagram.com/tendirmendirbaku" target="_blank"><i class="fab fa-instagram"></i></a></li>
                         </ul>
-                        <div class="sb-copy">&copy; <a href="https://tendirmendir.az">TendirMendir</a></div>
+                        <div class="sb-copy">&copy; <a href="https://tendirmendir.az" target="_blank">TendirMendir</a></div>
                     </div>
                 </div>
             </footer>
@@ -24,7 +24,7 @@
     <!-- jquery js -->
     <script src="<?=LINK?>/assets/js/plugins/jquery.min.js"></script>
     <!-- smooth scroll js -->
-    <script src="<?=LINK?>/assets/js/plugins/smooth-scroll.js"></script>
+    <script src="<?=LINK?>assets/js/plugins/smooth-scroll.js"></script>
     <!-- swup js -->
     <script src="<?=LINK?>/assets/js/plugins/swup.min.js"></script>
     <!-- swiper js -->
