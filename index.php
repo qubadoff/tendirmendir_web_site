@@ -107,7 +107,7 @@
                     </div>
                     <div class="row">
                         <div class="col-lg-6">
-                            <a href="shop-list-1.html" class="sb-categorie-card sb-categorie-card-2 sb-mb-30">
+                            <a href="#" class="sb-categorie-card sb-categorie-card-2 sb-mb-30">
                                 <div class="sb-card-body">
                                     <div class="sb-category-icon">
                                         <img src="<?=LINK?>/assets/img/categories/1.png" alt="icon">
@@ -120,7 +120,7 @@
                             </a>
                         </div>
                         <div class="col-lg-6">
-                            <a href="shop-list-1.html" class="sb-categorie-card sb-categorie-card-2 sb-mb-30">
+                            <a href="#" class="sb-categorie-card sb-categorie-card-2 sb-mb-30">
                                 <div class="sb-card-body">
                                     <div class="sb-category-icon">
                                         <img src="<?=LINK?>/assets/img/categories/2.png" alt="icon">
@@ -133,7 +133,7 @@
                             </a>
                         </div>
                         <div class="col-lg-6">
-                            <a href="shop-list-1.html" class="sb-categorie-card sb-categorie-card-2 sb-mb-30">
+                            <a href="#" class="sb-categorie-card sb-categorie-card-2 sb-mb-30">
                                 <div class="sb-card-body">
                                     <div class="sb-category-icon">
                                         <img src="<?=LINK?>/assets/img/categories/3.png" alt="icon">
@@ -146,7 +146,7 @@
                             </a>
                         </div>
                         <div class="col-lg-6">
-                            <a href="shop-list-1.html" class="sb-categorie-card sb-categorie-card-2 sb-mb-30">
+                            <a href="#" class="sb-categorie-card sb-categorie-card-2 sb-mb-30">
                                 <div class="sb-card-body">
                                     <div class="sb-category-icon">
                                         <img src="<?=LINK?>/assets/img/categories/4.png" alt="icon">

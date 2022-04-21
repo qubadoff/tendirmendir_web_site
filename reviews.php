@@ -11,10 +11,10 @@
               <!-- main title -->
               <div class="sb-main-title-frame">
                 <div class="sb-main-title">
-                  <h1 class="sb-h2">Feedback from our guests</h1>
+                  <h1 class="sb-h2">Müştərilərimizin bizim haqqımızda söylədikləri fikirlər...</h1>
                   <ul class="sb-breadcrumbs">
-                    <li><a href="home-1.html">Home</a></li>
-                    <li><a href="#.">Reviews</a></li>
+                    <li><a href="index.php">Ana səhifə</a></li>
+                    <li><a href="reviews.php">Rəylər</a></li>
                   </ul>
                 </div>
               </div>
@@ -49,7 +49,7 @@
                   tempora, ut soluta animi ducimus dignissimos deserunt doloribus in reprehenderit rem accusamus! Quibusdam labore, aliquam dolor harum!</p>
                 <div class="sb-author-frame">
                   <div class="sb-avatar-frame">
-                    <img src="img/faces/1.jpg" alt="Guest">
+                    <img src="<?=LINK?>/assets/img/faces/1.jpg" alt="Guest">
                   </div>
                   <h4>Emma Newman</h4>
                 </div>
@@ -70,7 +70,7 @@
                 <p class="sb-text sb-mb-15">Tempora ut soluta animi ducimus dignissimos deserunt doloribus in reprehenderit Reprehenderit rem accusamus! Quibusdam labore, aliquam dolor harum!</p>
                 <div class="sb-author-frame">
                   <div class="sb-avatar-frame">
-                    <img src="img/faces/2.jpg" alt="Guest">
+                    <img src="<?=LINK?>/assets/img/faces/2.jpg" alt="Guest">
                   </div>
                   <h4>Paul Trueman</h4>
                 </div>
@@ -92,7 +92,7 @@
                   tempora, ut soluta animi ducimus dignissimos deserunt doloribus in reprehenderit rem accusamus! Quibusdam labore, aliquam dolor harum.</p>
                 <div class="sb-author-frame">
                   <div class="sb-avatar-frame">
-                    <img src="img/faces/3.jpg" alt="Guest">
+                    <img src="<?=LINK?>/assets/img/faces/3.jpg" alt="Guest">
                   </div>
                   <h4>Viktoria Freeman</h4>
                 </div>
@@ -114,7 +114,7 @@
                   tempora, ut soluta animi ducimus dignissimos deserunt doloribus in reprehenderit rem accusamus.</p>
                 <div class="sb-author-frame">
                   <div class="sb-avatar-frame">
-                    <img src="img/faces/4.jpg" alt="Guest">
+                    <img src="<?=LINK?>/assets/img/faces/4.jpg" alt="Guest">
                   </div>
                   <h4>Audrey Oldman</h4>
                 </div>
@@ -136,7 +136,7 @@
                   tempora, ut soluta animi ducimus dignissimos deserunt doloribus in reprehenderit rem accusamus! Quibusdam labore, aliquam dolor harum!</p>
                 <div class="sb-author-frame">
                   <div class="sb-avatar-frame">
-                    <img src="img/faces/1.jpg" alt="Guest">
+                    <img src="<?=LINK?>/assets/img/faces/1.jpg" alt="Guest">
                   </div>
                   <h4>Emma Newman</h4>
                 </div>
@@ -157,7 +157,7 @@
                 <p class="sb-text sb-mb-15">Ducimus dignissimos deserunt doloribus in reprehenderit rem accusamus! Quibusdam labore, aliquam dolor harum!</p>
                 <div class="sb-author-frame">
                   <div class="sb-avatar-frame">
-                    <img src="img/faces/2.jpg" alt="Guest">
+                    <img src="<?=LINK?>/assets/img/faces/2.jpg" alt="Guest">
                   </div>
                   <h4>Paul Trueman</h4>
                 </div>
@@ -179,7 +179,7 @@
                   tempora, ut soluta animi tempora, ut soluta animi ducimus dignissimos deserunt doloribus in reprehenderit rem accusamus ducimus reprehenderit rem accusamu.</p>
                 <div class="sb-author-frame">
                   <div class="sb-avatar-frame">
-                    <img src="img/faces/3.jpg" alt="Guest">
+                    <img src="<?=LINK?>/assets/img/faces/3.jpg" alt="Guest">
                   </div>
                   <h4>Viktoria Freeman</h4>
                 </div>
@@ -201,7 +201,7 @@
                   accusamus! Quibusdam labore, aliquam dolor harum!</p>
                 <div class="sb-author-frame">
                   <div class="sb-avatar-frame">
-                    <img src="img/faces/4.jpg" alt="Guest">
+                    <img src="<?=LINK?>/assets/img/faces/4.jpg" alt="Guest">
                   </div>
                   <h4>Audrey Oldman</h4>
                 </div>
@@ -220,34 +220,4 @@
         </div>
       </section>
       <!-- reviews end -->
-
-      <!-- call to action -->
-      <section class="sb-call-to-action">
-        <div class="sb-bg-3"></div>
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-6 align-self-center">
-              <div class="sb-cta-text">
-                <h2 class="sb-h1 sb-mb-30">Download our mobile app.</h2>
-                <p class="sb-text sb-mb-30">Consectetur numquam poro nemo veniam<br>eligendi rem adipisci quo modi.</p>
-                <a href="#." target="_blank" data-no-swup class="sb-download-btn"><img src="img/buttons/1.svg" alt="img"></a>
-                <a href="#." target="_blank" data-no-swup class="sb-download-btn"><img src="img/buttons/2.svg" alt="img"></a>
-              </div>
-            </div>
-            <div class="col-lg-6">
-              <div class="sb-illustration-3">
-                <img src="img/illustrations/phones.png" alt="phones" class="sb-phones">
-                <div class="sb-cirkle-1"></div>
-                <div class="sb-cirkle-2"></div>
-                <div class="sb-cirkle-3"></div>
-                <div class="sb-cirkle-4"></div>
-                <img src="img/illustrations/1.svg" alt="phones" class="sb-pik-1">
-                <img src="img/illustrations/2.svg" alt="phones" class="sb-pik-2">
-                <img src="img/illustrations/3.svg" alt="phones" class="sb-pik-3">
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-      <!-- call to action end -->
 <?php include "footer.php"; ?>
