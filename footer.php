@@ -13,7 +13,7 @@
                             
                             <!--<li><a href="#."><i class="fab fa-youtube"></i></a></li>-->
                         </ul>
-                        <div class="sb-copy">&copy; <a href="https://burncode.az">Burncode</a></div>
+                        <div class="sb-copy">&copy; <a href="https://tendirmendir.az">TendirMendir</a></div>
                     </div>
                 </div>
             </footer>

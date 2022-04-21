@@ -18,11 +18,11 @@
                                     <h1 class="sb-mb-30">Təndir Məndir, Azərbaycanın <span> sürətli </span> qidalanma və qida çatdırılması brendidir. </h1>
                                     <p class="sb-text sb-text-lg sb-mb-30">Məqsəd – Ən çox tanınan milli brend olmaq! Dünya miqyaslı brend olmaq.</p>
                                                       <!-- button -->
-                  <a href="menu.php" class="sb-btn">
+                  <a href="#" class="sb-btn">
                     <span class="sb-icon">
                       <img src="<?=LINK?>/assets/img/ui/icons/menu.svg" alt="icon">
                     </span>
-                    <span>Menyu</span>
+                    <span>Bütün Menyu</span>
                   </a>
                   <!-- button end -->
                   <!-- button -->
@@ -81,7 +81,7 @@
                         <div class="col-lg-6 align-self-center">
                             <div class="sb-illustration-2 sb-mb-90">
                                 <div class="sb-interior-frame">
-                                    <img src="<?=LINK?>/assets/img/illustrations/interior.jpg" alt="interior" class="sb-interior">
+                                    <img src="<?=LINK?>/assets/img/tt.jpeg" alt="interior" class="sb-interior">
                                 </div>
                                 <div class="sb-square"></div>
                                 <div class="sb-cirkle-1"></div>
@@ -111,7 +111,7 @@
                         </div>
                         <div class="sb-right sb-mb-30">
                             <!-- button -->
-                            <a href="menu.php" class="sb-btn sb-m-0">
+                            <a href="#" class="sb-btn sb-m-0">
                                 <span class="sb-icon">
                   <img src="<?=LINK?>/assets/img/ui/icons/arrow.svg" alt="icon">
                 </span>
@@ -197,7 +197,7 @@
                             </div>
                             <!-- slider navigation end -->
                             <!-- button -->
-                            <a href="menu.php" class="sb-btn">
+                            <a href="#" class="sb-btn">
                                 <span class="sb-icon">
                   <img src="<?=LINK?>/assets/img/ui/icons/menu.svg" alt="icon">
                 </span>
@@ -215,7 +215,7 @@
                                     </div>
                                     <div class="sb-card-tp">
                                         <h4 class="sb-card-title">Səbət ( 4 nəfərlik )</h4>
-                                        <div class="sb-price"><sub></sub>68.99</div>
+                                        <div class="sb-price"><sub>&#8916;</sub>68.99</div>
                                     </div>
                                     <div class="sb-description">
                                         <p class="sb-text sb-mb-15"><span>tomatoes</span>, <span>nori</span>, <span>feta cheese</span>, <span>mushrooms</span>, <span>rice noodles</span>, <span>corn</span>, <span>shrimp</span>.</p>

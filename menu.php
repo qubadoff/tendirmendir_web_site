@@ -39,7 +39,7 @@
       </script>
    </head>
    <body>
-      <iframe id="preview-frame" src="https://tendirmendir.clopos.menu/" name="preview-frame" frameborder="0" noresize="noresize" style="height: 902px;">
+      <iframe id="preview-frame" src="https://tendirmendir.clopos.menu/menu" name="preview-frame" frameborder="0" noresize="noresize" style="height: 902px;">
       </iframe>
    </body>
 </html>
@@ -80,7 +80,7 @@
       </script>
    </head>
    <body>
-      <iframe id="preview-frame" src="https://tendirmendir2.clopos.menu/" name="preview-frame" frameborder="0" noresize="noresize" style="height: 902px;">
+      <iframe id="preview-frame" src="https://tendirmendir2.clopos.menu/menu" name="preview-frame" frameborder="0" noresize="noresize" style="height: 902px;">
       </iframe>
    </body>
 </html>
@@ -121,7 +121,7 @@ case "clopos3":
       </script>
    </head>
    <body>
-      <iframe id="preview-frame" src="https://tendirmendir3.clopos.menu/" name="preview-frame" frameborder="0" noresize="noresize" style="height: 902px;">
+      <iframe id="preview-frame" src="https://tendirmendir3.clopos.menu/menu" name="preview-frame" frameborder="0" noresize="noresize" style="height: 902px;">
       </iframe>
    </body>
 </html>
