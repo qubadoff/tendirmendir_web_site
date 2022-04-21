@@ -91,12 +91,12 @@
                 <div class="container">
                     <div class="sb-group-title sb-mb-30">
                         <div class="sb-left sb-mb-30">
-                            <h2 class="sb-mb-30">What do you <span>like today?</span></h2>
-                            <p class="sb-text">Consectetur numquam poro nemo veniam<br>eligendi rem adipisci quo modi.</p>
+                            <h2 class="sb-mb-30">Ləziz <span>təamlarımız !</span></h2>
+                            <p class="sb-text"> Ləzzətli məhsullarımız ilə tanış olun... </p>
                         </div>
                         <div class="sb-right sb-mb-30">
                             <!-- button -->
-                            <a href="shop-1.html" class="sb-btn sb-m-0">
+                            <a href="menu.php" class="sb-btn sb-m-0">
                                 <span class="sb-icon">
                   <img src="<?=LINK?>/assets/img/ui/icons/arrow.svg" alt="icon">
                 </span>
@@ -113,8 +113,8 @@
                                         <img src="<?=LINK?>/assets/img/categories/1.png" alt="icon">
                                     </div>
                                     <div class="sb-card-descr">
-                                        <h3 class="sb-mb-10">Starters</h3>
-                                        <p class="sb-text">Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
+                                        <h3 class="sb-mb-10">Qəlyanaltılar</h3>
+                                        <p class="sb-text">Əsas yeməkdən qabağ atıştırmalıqlar.</p>
                                     </div>
                                 </div>
                             </a>
@@ -126,8 +126,8 @@
                                         <img src="<?=LINK?>/assets/img/categories/2.png" alt="icon">
                                     </div>
                                     <div class="sb-card-descr">
-                                        <h3 class="sb-mb-10">Main dishes</h3>
-                                        <p class="sb-text">Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
+                                        <h3 class="sb-mb-10">Əsas yeməklər</h3>
+                                        <p class="sb-text">Əsas yeməklərimizin dadı damağınızda qalacaq.</p>
                                     </div>
                                 </div>
                             </a>
@@ -139,8 +139,8 @@
                                         <img src="<?=LINK?>/assets/img/categories/3.png" alt="icon">
                                     </div>
                                     <div class="sb-card-descr">
-                                        <h3 class="sb-mb-10">Drinks</h3>
-                                        <p class="sb-text">Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
+                                        <h3 class="sb-mb-10">İçkilər</h3>
+                                        <p class="sb-text">Yeməklərin yanında içki mütləqdir.</p>
                                     </div>
                                 </div>
                             </a>
@@ -152,8 +152,8 @@
                                         <img src="<?=LINK?>/assets/img/categories/4.png" alt="icon">
                                     </div>
                                     <div class="sb-card-descr">
-                                        <h3 class="sb-mb-10">Desserts</h3>
-                                        <p class="sb-text">Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
+                                        <h3 class="sb-mb-10">Şirniyyatlar</h3>
+                                        <p class="sb-text">Yeməydən sonra şirniyyat süfrəsi mütləqdir.</p>
                                     </div>
                                 </div>
                             </a>
@@ -171,8 +171,8 @@
                 <div class="container">
                     <div class="sb-group-title sb-mb-30">
                         <div class="sb-left sb-mb-30">
-                            <h2 class="sb-mb-30">Most <span>popular</span> dishes</h2>
-                            <p class="sb-text">Consectetur numquam poro nemo veniam<br>eligendi rem adipisci quo modi.</p>
+                            <h2 class="sb-mb-30">Ən çox sifariş olunanlar.</h2>
+                            <p class="sb-text">Gün ərzində ən çox seçim edilən məhsullarımız...</p>
                         </div>
                         <div class="sb-right sb-mb-30">
                             <!-- slider navigation -->
@@ -182,7 +182,7 @@
                             </div>
                             <!-- slider navigation end -->
                             <!-- button -->
-                            <a href="menu-1.html" class="sb-btn">
+                            <a href="menu.php" class="sb-btn">
                                 <span class="sb-icon">
                   <img src="<?=LINK?>/assets/img/ui/icons/menu.svg" alt="icon">
                 </span>
@@ -333,19 +333,10 @@
                 <div class="container">
                     <div class="sb-group-title sb-mb-30">
                         <div class="sb-left sb-mb-30">
-                            <h2 class="sb-mb-30">They will <span>cook</span> for you</h2>
-                            <p class="sb-text">Consectetur numquam poro nemo veniam<br>eligendi rem adipisci quo modi.</p>
+                            <h2 class="sb-mb-30">Aşbazlarımız ilə tanış olun.</h2>
+                            <p class="sb-text">Ləzzətli təamlarımızı hazırlayıb sizin zövqünüzü oxşayan aşbaz komandamız...</p>
                         </div>
-                        <div class="sb-right sb-mb-30">
-                            <!-- button -->
-                            <a href="about-1.html" class="sb-btn sb-m-0">
-                                <span class="sb-icon">
-                  <img src="<?=LINK?>/assets/img/ui/icons/arrow.svg" alt="icon">
-                </span>
-                                <span>More about us</span>
-                            </a>
-                            <!-- button end -->
-                        </div>
+
                     </div>
                     <div class="row">
                         <div class="col-lg-3">
