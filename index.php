@@ -211,11 +211,11 @@
                             <div class="swiper-slide">
                                 <a data-fancybox="menu" data-no-swup href="<?=LINK?>/assets/img/menu/3.jpg" class="sb-menu-item">
                                     <div class="sb-cover-frame">
-                                        <img src="<?=LINK?>/assets/img/menu/3.jpg" alt="product">
+                                        <img src="<?=LINK?>/assets/img/menu/sebet4.jpg" alt="product">
                                     </div>
                                     <div class="sb-card-tp">
-                                        <h4 class="sb-card-title">Carpaccio de daurade</h4>
-                                        <div class="sb-price"><sub>$</sub> 14</div>
+                                        <h4 class="sb-card-title">Səbət ( 4 nəfərlik )</h4>
+                                        <div class="sb-price"><sub></sub>68.99</div>
                                     </div>
                                     <div class="sb-description">
                                         <p class="sb-text sb-mb-15"><span>tomatoes</span>, <span>nori</span>, <span>feta cheese</span>, <span>mushrooms</span>, <span>rice noodles</span>, <span>corn</span>, <span>shrimp</span>.</p>
