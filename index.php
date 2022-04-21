@@ -209,16 +209,13 @@
                     <div class="swiper-container sb-short-menu-slider-4i">
                         <div class="swiper-wrapper">
                             <div class="swiper-slide">
-                                <a data-fancybox="menu" data-no-swup href="<?=LINK?>/assets/img/menu/3.jpg" class="sb-menu-item">
+                                <a data-fancybox="menu" data-no-swup href="<?=LINK?>/assets/img/menu/sebet4.jpg" class="sb-menu-item">
                                     <div class="sb-cover-frame">
                                         <img src="<?=LINK?>/assets/img/menu/sebet4.jpg" alt="product">
                                     </div>
                                     <div class="sb-card-tp">
                                         <h4 class="sb-card-title">Səbət ( 4 nəfərlik )</h4>
                                         <div class="sb-price"><sub>&#8916;</sub>68.99</div>
-                                    </div>
-                                    <div class="sb-description">
-                                        <p class="sb-text sb-mb-15"><span>tomatoes</span>, <span>nori</span>, <span>feta cheese</span>, <span>mushrooms</span>, <span>rice noodles</span>, <span>corn</span>, <span>shrimp</span>.</p>
                                     </div>
                                 </a>
                             </div>
@@ -230,9 +227,6 @@
                                     <div class="sb-card-tp">
                                         <h4 class="sb-card-title">Chevrefrit au miel</h4>
                                         <div class="sb-price"><sub>$</sub> 14</div>
-                                    </div>
-                                    <div class="sb-description">
-                                        <p class="sb-text sb-mb-15"><span>tomatoes</span>, <span>nori</span>, <span>feta cheese</span>, <span>mushrooms</span>, <span>rice noodles</span>, <span>corn</span>, <span>shrimp</span>.</p>
                                     </div>
                                 </a>
                             </div>
@@ -246,9 +240,6 @@
                                         <h4 class="sb-card-title">Saumon Gravlax</h4>
                                         <div class="sb-price"><sub>$</sub> 9</div>
                                     </div>
-                                    <div class="sb-description">
-                                        <p class="sb-text sb-mb-15"><span>tomatoes</span>, <span>nori</span>, <span>feta cheese</span>, <span>mushrooms</span>, <span>rice noodles</span>, <span>corn</span>, <span>shrimp</span>.</p>
-                                    </div>
                                 </a>
                             </div>
                             <div class="swiper-slide">
@@ -260,9 +251,6 @@
                                     <div class="sb-card-tp">
                                         <h4 class="sb-card-title">Croustillant de poisson</h4>
                                         <div class="sb-price"><sub>$</sub> 4</div>
-                                    </div>
-                                    <div class="sb-description">
-                                        <p class="sb-text sb-mb-15"><span>tomatoes</span>, <span>nori</span>, <span>feta cheese</span>, <span>mushrooms</span>, <span>rice noodles</span>, <span>corn</span>, <span>shrimp</span>.</p>
                                     </div>
                                 </a>
                             </div>
@@ -276,9 +264,6 @@
                                         <h4 class="sb-card-title">Carpaccio de daurade</h4>
                                         <div class="sb-price"><sub>$</sub> 6</div>
                                     </div>
-                                    <div class="sb-description">
-                                        <p class="sb-text sb-mb-15"><span>tomatoes</span>, <span>nori</span>, <span>feta cheese</span>, <span>mushrooms</span>, <span>rice noodles</span>, <span>corn</span>, <span>shrimp</span>.</p>
-                                    </div>
                                 </a>
                             </div>
                             <div class="swiper-slide">
@@ -289,9 +274,6 @@
                                     <div class="sb-card-tp">
                                         <h4 class="sb-card-title">Stracciatella</h4>
                                         <div class="sb-price"><sub>$</sub> 11</div>
-                                    </div>
-                                    <div class="sb-description">
-                                        <p class="sb-text sb-mb-15"><span>tomatoes</span>, <span>nori</span>, <span>feta cheese</span>, <span>mushrooms</span>, <span>rice noodles</span>, <span>corn</span>, <span>shrimp</span>.</p>
                                     </div>
                                 </a>
                             </div>

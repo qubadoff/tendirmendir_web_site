@@ -109,8 +109,10 @@
               <div class="sb-features-item sb-mb-60">
                 <div class="sb-number">01</div>
                 <div class="sb-feature-text">
-                  <h3 class="sb-mb-15">Ünvan</h3>
-                  <p class="sb-text">Mərdanov qardaşları. 1/5</p>
+                  <h3 class="sb-mb-15">Filiallar</h3>
+                  <p class="sb-text">📍Mərdanov qardaşları. 1/5</p>
+                  <p class="sb-text">📍İstiqlaliyyət. 69</p>
+                  <p class="sb-text">📍Ağa Nemətulla. 52</p>
                 </div>
               </div>
             </div>
@@ -119,7 +121,9 @@
                 <div class="sb-number">02</div>
                 <div class="sb-feature-text">
                   <h3 class="sb-mb-15">Nömrə</h3>
-                  <p class="sb-text">*0019</p>
+                  <p class="sb-text">📱099 767 00 19</p>
+                  <p class="sb-text">📱077 911 19 19</p>
+                  <p class="sb-text">📱099 797 00 19</p>
                 </div>
               </div>
             </div>

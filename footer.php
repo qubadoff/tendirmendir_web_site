@@ -7,11 +7,8 @@
                             <img src="<?=LINK?>/assets/img/ui/logo.png" alt="TendirMendir">
                         </a>
                         <ul class="sb-social">
-                            <!--<li><a href="#."><i class="fab fa-twitter"></i></a></li>-->
-                            <li><a href="https://www.facebook.com/tendirmendirbaku/"><i class="fab fa-facebook-f"></i></a></li>
-                            <li><a href="https://www.instagram.com/tendirmendirbaku/"><i class="fab fa-instagram"></i></a></li>
-                            
-                            <!--<li><a href="#."><i class="fab fa-youtube"></i></a></li>-->
+                            <li><a href="https://www.facebook.com/tendirmendirbaku/" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+                            <li><a href="https://www.instagram.com/tendirmendirbaku/" target="_blank"><i class="fab fa-instagram"></i></a></li>
                         </ul>
                         <div class="sb-copy">&copy; <a href="https://tendirmendir.az">TendirMendir</a></div>
                     </div>

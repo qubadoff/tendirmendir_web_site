@@ -107,15 +107,14 @@
                         <h4> Filiallar :</h4><i class="fas fa-arrow-down"></i>
                     </div>
                     <ul class="sb-list sb-mb-30">
-                        <li><b>Tarqovi :</b><span>Mərdanov qardaşları. 1/5</span></li>
-                        <li><b>İçəri şəhər :</b><span>İstiqlaliyyət. 69</span></li>
-                        <li><b>N. Nərimanov :</b><span>Ağa Nemətulla. 52</span></li>
+                        <li><b>Tarqovi :</b>📍Mərdanov qardaşları. 1/5<br/>📱099 767 00 19</li>
+                        <li><b>İçəri şəhər :</b>📍İstiqlaliyyət. 69<br/>📱077 911 19 19</li>
+                        <li><b>N. Nərimanov :</b>📍Ağa Nemətulla. 52<br/>📱099 797 00 19</li>
                         <li><b>İş saatları:</b><span>09:00 - 00:00</span></li><br/>
                         <div class="sb-ib-title-frame sb-mb-30">
                         <h4> Əlaqə :</h4><i class="fas fa-arrow-down"></i>
                         </div>
-                        <li><b>Nömrə:</b><span><a href="tel:*0019">*0019</a></span></li>
-                        <li><b>Nömrə:</b><span><a href="tel:+994779111919">077-911-19-19</a></span></li>
+                        <li><b>Çatdırılma:</b><span><a href="tel:*0019">*0019</a></span></li>
                         <li><b>Email:</b><span>info@tendirmendir.az</span></li>
                     </ul>
                     <hr>
