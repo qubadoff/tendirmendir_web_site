@@ -1,4 +1,4 @@
-            <!-- footer -->
+        <!-- footer -->
             <footer>
                 <div class="container">
                     <div class="sb-footer-frame">
@@ -44,6 +44,10 @@
     <script src="<?=LINK?>/assets/js/plugins/fancybox.min.js"></script>
     <!-- starbelly js -->
     <script src="<?=LINK?>/assets/js/main.js"></script>
+
+
+
+
 
 </body>
 

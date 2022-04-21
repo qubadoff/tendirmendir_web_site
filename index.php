@@ -75,7 +75,7 @@
                                 <div class="sb-cirkle-4"></div>
                                 <div class="sb-experience">
                                     <div class="sb-exp-content">
-                                        <p class="sb-h1 sb-mb-10">17</p>
+                                        <p class="sb-h1 sb-mb-10">5</p>
                                         <p class="sb-h3">illik təcrübə</p>
                                     </div>
                                 </div>

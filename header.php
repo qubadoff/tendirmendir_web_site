@@ -83,11 +83,6 @@
                                 </li>
                                 <li class="sb-has-children">
                                     <a href="#">Bolt Menyu</a>
-                                    <ul>
-                                        <li><a href="<?=LINK?>/menu.php?get=bolt1">Tendir Mendir 1</a></li>
-                                        <li><a href="<?=LINK?>/menu.php?get=bolt2">Tendir Mendir 2</a></li>
-                                        <li><a href="<?=LINK?>/menu.php?get=bolt3">Tendir Mendir 3</a></li>
-                                    </ul>
                                 </li>
                                 <li>
                                     <a href="rezerv.php">Rezervasiya</a>
@@ -98,7 +93,7 @@
                             <!-- button -->
                             <div class="sb-btn sb-btn-2 sb-btn-gray sb-btn-icon sb-m-0">
                                 <span class="sb-icon">
-                                  <a href="reviews.php"><img src="<?=LINK?>/assets/img/ui/icons/dialog.svg" alt="icon"></a>
+                                  <a href="tel:*8180"><b>*8180</b></a>
                                 </span>
                             </div>
                            <!-- button end -->
@@ -114,16 +109,22 @@
             <div class="sb-info-bar">
                 <div class="sb-infobar-content">
                     <div class="sb-ib-title-frame sb-mb-30">
-                        <h4>Contact</h4><i class="fas fa-arrow-down"></i>
+                        <h4> Ünvanlar :</h4><i class="fas fa-arrow-down"></i>
                     </div>
                     <ul class="sb-list sb-mb-30">
-                        <li><b>Address:</b><span>Montréal, 1510 Rue Sauvé</span></li>
-                        <li><b>Working hours:</b><span>09:00 - 23:00</span></li>
-                        <li><b>Phone:</b><span>+02 (044) 756-X6-52</span></li>
-                        <li><b>Email:</b><span>TendirMendir@mail.com</span></li>
+                        <li><b>Tarqovi :</b><span>Mərdanov qardaşları. 1/5</span></li>
+                        <li><b>İçəri şəhər :</b><span>İstiqlaliyyət. 69</span></li>
+                        <li><b>N. Nərimanov :</b><span>Ağa Nemətulla. 52</span></li>
+                        <li><b>İş saatları:</b><span>09:00 - 00:00</span></li><br/>
+                        <div class="sb-ib-title-frame sb-mb-30">
+                        <h4> Əlaqə :</h4><i class="fas fa-arrow-down"></i>
+                        </div>
+                        <li><b>Tarqovi:</b><span><a href="tel:+994997670019">099-767-00-19</a></span></li>
+                        <li><b>İçəri Şəhər:</b><span><a href="tel:+994779111919">099-767-00-19</a></span></li>
+                        <li><b>N.Nərimanov:</b><span><a href="tel:+994997970019">099-767-00-19</a></span></li>
+                        <li><b>Email:</b><span>info@tendirmendir.az</span></li>
                     </ul>
                     <hr>
-
                 </div>
                 <div class="sb-info-bar-footer">
                     <ul class="sb-social">
