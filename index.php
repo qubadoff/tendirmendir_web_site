@@ -76,7 +76,7 @@
                                 <div class="sb-experience">
                                     <div class="sb-exp-content">
                                         <p class="sb-h1 sb-mb-10">17</p>
-                                        <p class="sb-h3">Years Experiense</p>
+                                        <p class="sb-h3">illik təcrübə</p>
                                     </div>
                                 </div>
                             </div>
@@ -100,7 +100,7 @@
                                 <span class="sb-icon">
                   <img src="<?=LINK?>/assets/img/ui/icons/arrow.svg" alt="icon">
                 </span>
-                                <span>Go shopping now</span>
+                                <span> Bütün Menyu </span>
                             </a>
                             <!-- button end -->
                         </div>
@@ -186,7 +186,7 @@
                                 <span class="sb-icon">
                   <img src="<?=LINK?>/assets/img/ui/icons/menu.svg" alt="icon">
                 </span>
-                                <span>Full menu</span>
+                                <span> Bütün Menyu </span>
                             </a>
                             <!-- button end -->
                         </div>

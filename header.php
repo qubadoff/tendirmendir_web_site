@@ -66,7 +66,7 @@
                                     <a href="index.php">Ana Səhifə</a>
                                 </li>
                                 <li class="sb-has-children">
-                                    <a href="menu-1.html">Menyu</a>
+                                    <a href="#">Menyu</a>
                                     <ul>
                                         <li><a href="<?=LINK?>/menu.php?get=clopos1">Tendir Mendir 1</a></li>
                                         <li><a href="<?=LINK?>/menu.php?get=clopos2">Tendir Mendir 2</a></li>
@@ -74,7 +74,7 @@
                                     </ul>
                                 </li>
                                 <li class="sb-has-children">
-                                    <a href="menu-1.html">Wolt Menyu</a>
+                                    <a href="#">Wolt Menyu</a>
                                     <ul>
                                         <li><a href="<?=LINK?>/menu.php?get=wolt1">Tendir Mendir 1</a></li>
                                         <li><a href="<?=LINK?>/menu.php?get=wolt2">Tendir Mendir 2</a></li>
@@ -82,7 +82,7 @@
                                     </ul>
                                 </li>
                                 <li class="sb-has-children">
-                                    <a href="menu-1.html">Bolt Menyu</a>
+                                    <a href="#">Bolt Menyu</a>
                                     <ul>
                                         <li><a href="<?=LINK?>/menu.php?get=bolt1">Tendir Mendir 1</a></li>
                                         <li><a href="<?=LINK?>/menu.php?get=bolt2">Tendir Mendir 2</a></li>
@@ -90,19 +90,18 @@
                                     </ul>
                                 </li>
                                 <li>
-                                    <a href="contact.php">Əlaqə</a>
+                                    <a href="rezerv.php">Rezervasiya</a>
                                 </li>
                             </ul>
                         </nav>
                         <div class="sb-buttons-frame">
                             <!-- button -->
-                            <div class="sb-btn sb-btn-2 sb-btn-gray sb-btn-icon sb-m-0 sb-btn-cart">
+                            <div class="sb-btn sb-btn-2 sb-btn-gray sb-btn-icon sb-m-0">
                                 <span class="sb-icon">
-                  <img src="<?=LINK?>/assets/img/ui/icons/cart.svg" alt="icon">
-                </span>
-                                <i class="sb-cart-number">5</i>
+                                  <a href="reviews.php"><img src="<?=LINK?>/assets/img/ui/icons/dialog.svg" alt="icon"></a>
+                                </span>
                             </div>
-                            <!-- button end -->
+                           <!-- button end -->
                             <!-- menu btn -->
                             <div class="sb-menu-btn"><span></span></div>
                             <!-- info btn -->
@@ -123,67 +122,13 @@
                         <li><b>Phone:</b><span>+02 (044) 756-X6-52</span></li>
                         <li><b>Email:</b><span>TendirMendir@mail.com</span></li>
                     </ul>
-                    <div class="sb-ib-title-frame sb-mb-30">
-                        <h4>Instagram</h4><i class="fas fa-arrow-down"></i>
-                    </div>
-                    <ul class="sb-instagram sb-mb-30">
-                        <li>
-                            <a href="#."><img src="<?=LINK?>/assets/img/instagram/1.jpg" alt="instagram"></a>
-                        </li>
-                        <li>
-                            <a href="#."><img src="<?=LINK?>/assets/img/instagram/2.jpg" alt="instagram"></a>
-                        </li>
-                        <li>
-                            <a href="#."><img src="<?=LINK?>/assets/img/instagram/3.jpg" alt="instagram"></a>
-                        </li>
-                        <li>
-                            <a href="#."><img src="<?=LINK?>/assets/img/instagram/4.jpg" alt="instagram"></a>
-                        </li>
-                        <li>
-                            <a href="#."><img src="<?=LINK?>/assets/img/instagram/5.jpg" alt="instagram"></a>
-                        </li>
-                        <li>
-                            <a href="#."><img src="<?=LINK?>/assets/img/instagram/6.jpg" alt="instagram"></a>
-                        </li>
-                    </ul>
                     <hr>
-                    <div class="sb-ib-title-frame sb-mb-30">
-                        <h4>Latest publications</h4><i class="fas fa-arrow-down"></i>
-                    </div>
-                    <a href="publication-1.html" class="sb-blog-card sb-blog-card-sm sb-mb-30">
-                        <div class="sb-cover-frame">
-                            <img src="<?=LINK?>/assets/img/blog/1.jpg" alt="cover">
-                        </div>
-                        <div class="sb-blog-card-descr">
-                            <h5 class="sb-mb-5">Simple Homemade Tomato Soup</h5>
-                            <p class="sb-text sb-text-sm">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero optio, sed expedita.</p>
-                        </div>
-                    </a>
-                    <a href="publication-1.html" class="sb-blog-card sb-blog-card-sm sb-mb-30">
-                        <div class="sb-cover-frame">
-                            <img src="<?=LINK?>/assets/img/blog/2.jpg" alt="cover">
-                        </div>
-                        <div class="sb-blog-card-descr">
-                            <h5 class="sb-mb-5">Thai Coconut Soup with Tofu and Rice</h5>
-                            <p class="sb-text sb-text-sm">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero optio, sed expedita.</p>
-                        </div>
-                    </a>
-                    <a href="publication-1.html" class="sb-blog-card sb-blog-card-sm sb-mb-30">
-                        <div class="sb-cover-frame">
-                            <img src="<?=LINK?>/assets/img/blog/3.jpg" alt="cover">
-                        </div>
-                        <div class="sb-blog-card-descr">
-                            <h5 class="sb-mb-5">21 Things You Should Absolutely Be Buying at ALDI</h5>
-                            <p class="sb-text sb-text-sm">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero optio, sed expedita.</p>
-                        </div>
-                    </a>
+
                 </div>
                 <div class="sb-info-bar-footer">
                     <ul class="sb-social">
-                        <li><a href="#."><i class="fab fa-twitter"></i></a></li>
-                        <li><a href="#."><i class="fab fa-instagram"></i></a></li>
-                        <li><a href="#."><i class="fab fa-facebook-f"></i></a></li>
-                        <li><a href="#."><i class="fab fa-youtube"></i></a></li>
+                        <li><a href="https://facebook.com/tendirmendirbaku"><i class="fab fa-facebook-f"></i></a></li>
+                        <li><a href="https://instagram.com/tendirmendirbbaku"><i class="fab fa-instagram"></i></a></li>
                     </ul>
                 </div>
             </div>
