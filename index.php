@@ -18,7 +18,7 @@
                                     <h1 class="sb-mb-30">Təndir Məndir, Azərbaycanın <span> sürətli </span> qidalanma və qida çatdırılması brendidir. </h1>
                                     <p class="sb-text sb-text-lg sb-mb-30">Məqsəd – Ən çox tanınan milli brend olmaq! Dünya miqyaslı brend olmaq.</p>
                                                       <!-- button -->
-                  <a href="#" class="sb-btn">
+                  <a href="<?=LINK?>/menu.php?get=clopos1" class="sb-btn">
                     <span class="sb-icon">
                       <img src="<?=LINK?>/assets/img/ui/icons/menu.svg" alt="icon">
                     </span>
@@ -39,7 +39,7 @@
                         </div>
                         <div class="col-lg-6">
                             <div class="sb-illustration-1">
-                                <img src="<?=LINK?>/assets/img/illustrations/girl.png" alt="girl" class="sb-girl">
+                                <img src="<?=LINK?>/assets/img/tendir.jpg" alt="girl" class="sb-girl">
                                 <div class="sb-cirkle-1"></div>
                                 <div class="sb-cirkle-2"></div>
                                 <div class="sb-cirkle-3"></div>
