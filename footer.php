@@ -7,8 +7,8 @@
                             <img src="<?=LINK?>/assets/img/ui/logo.png" alt="TendirMendir">
                         </a>
                         <ul class="sb-social">
-                            <li><a href="//fb.com/tendirmendirbaku" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-                            <li><a href="//instagram.com/tendirmendirbaku" target="_blank"><i class="fab fa-instagram"></i></a></li>
+                            <li><a href="" onclick='window.open("https://www.facebook.com/tendirmendirbaku");return false;'><i class="fab fa-facebook-f"></i></a></li>
+                            <li><a href="" onclick='window.open("https://www.instagram.com/tendirmendirbaku");return false;'><i class="fab fa-instagram"></i></a></li>
                         </ul>
                         <div class="sb-copy">&copy; <a href="https://tendirmendir.az" target="_blank">TendirMendir</a></div>
                     </div>
@@ -20,7 +20,6 @@
         <!-- dynamic content end -->
     </div>
     <!-- app wrapper end -->
-
     <!-- jquery js -->
     <script src="<?=LINK?>/assets/js/plugins/jquery.min.js"></script>
     <!-- smooth scroll js -->

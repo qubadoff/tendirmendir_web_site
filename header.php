@@ -88,7 +88,7 @@
                             <!-- button -->
                             <div class="sb-btn sb-btn-2 sb-btn-gray sb-btn-icon sb-m-0">
                                 <span class="sb-icon">
-                                  <a href="tel:*8180"><b>*0019</b></a>
+                                <a href="" onclick='window.open("tel:*0019");return false;'><b>*0019</b></a>
                                 </span>
                             </div>
                            <!-- button end -->
@@ -114,15 +114,15 @@
                         <div class="sb-ib-title-frame sb-mb-30">
                         <h4> Əlaqə :</h4><i class="fas fa-arrow-down"></i>
                         </div>
-                        <li><b>Çatdırılma:</b><span><a href="tel:*0019">*0019</a></span></li>
-                        <li><b>Email:</b><span>info@tendirmendir.az</span></li>
+                        <li><b>Çatdırılma:</b><span><a href="" onclick='window.open("tel:*0019");return false;'>*0019</a></span></li>
+                        <li><b>Email:</b><span><a href="" onclick='window.open("mailto:info@tendirmendir.az");return false;'>info@tendirmendir.az</a></span></li>
                     </ul>
                     <hr>
                 </div>
                 <div class="sb-info-bar-footer">
                     <ul class="sb-social">
-                        <li><a href="//fb.com/tenidrmendirbaku" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-                        <li><a href="//instagram.com/tendirmendirbaku" target="_blank"><i class="fab fa-instagram"></i></a></li>
+                        <li><a href="" onclick='window.open("https://www.facebook.com/tendirmendirbaku");return false;'><i class="fab fa-facebook-f"></i></a></li>
+                        <li><a href="" onclick='window.open("https://www.instagram.com/tendirmendirbaku");return false;'><i class="fab fa-instagram"></i></a></li>
                     </ul>
                 </div>
             </div>

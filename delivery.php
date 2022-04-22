@@ -12,10 +12,6 @@
               <div class="sb-main-title-frame">
                 <div class="sb-main-title">
                   <h1 class="sb-h2">Çatdırılma Xidmətlərimiz</h1>
-                  <ul class="sb-breadcrumbs">
-                    <li><a href="index.php">Ana səhifə</a></li>
-                    <li><a href="#">Çatdırılma</a></li>
-                  </ul>
                 </div>
               </div>
               <!-- main title end -->
