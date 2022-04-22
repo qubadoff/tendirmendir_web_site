@@ -13,10 +13,6 @@
                   <span class="sb-suptitle sb-mb-30">Rezervasiya</span>
                   <h1 class="sb-mb-30">Restoranımızda yer rezerv etmək istəyirsinizsə sağdakı məlumatları doldurun.</h1>
                   <p class="sb-text sb-text-lg sb-mb-30">Məlumatları doldurduqdan sonra əməkdaşlarımız sizinlə əlaqə saxlayacaq!</p>
-                  <ul class="sb-breadcrumbs">
-                    <li><a href="index.php">Ana səhifə</a></li>
-                    <li><a href="rezerv.php">Rezervasiya</a></li>
-                  </ul>
                 </div>
               </div>
               <!-- main title end -->
@@ -110,9 +106,9 @@
                 <div class="sb-number">01</div>
                 <div class="sb-feature-text">
                   <h3 class="sb-mb-15">Filiallar</h3>
-                  <p class="sb-text">📍Mərdanov qardaşları. 1/5</p>
-                  <p class="sb-text">📍İstiqlaliyyət. 69</p>
-                  <p class="sb-text">📍Ağa Nemətulla. 52</p>
+                  <p class="sb-text"><a href="" onclick='window.open("https://www.google.com/maps/place/1+Mardanov+Gardashlary,+Bakı/@40.3726582,49.8402829,20z/data=!4m13!1m7!3m6!1s0x40307db037c2c653:0x6447af8b2b770a81!2s1+Mardanov+Gardashlary,+Bakı!3b1!8m2!3d40.3726556!4d49.8404817!3m4!1s0x40307db037c2c653:0x6447af8b2b770a81!8m2!3d40.3726556!4d49.8404817");return false;'>📍Mərdanov qardaşları. 1/5</a></p>
+                  <p class="sb-text"><a href="" onclick='window.open("https://www.google.com/maps/place/69+İstiqlaliyyət+Küçəsi,+Bakı+1000,+Azərbaycan/@40.3694226,49.8364531,19.46z/data=!4m5!3m4!1s0x40307db6c36b07ed:0xf18e44a1e0d571eb!8m2!3d40.3695114!4d49.8365803");return false;'>📍İstiqlaliyyət. 69</a></p>
+                  <p class="sb-text"><a href="" onclick='window.open("https://www.google.com/maps/place/52+Ağa+Nemətulla,+Bakı+1033,+Azərbaycan/@40.3989179,49.8742794,17z/data=!3m1!4b1!4m5!3m4!1s0x40307d37d74ac46f:0x96ec95df68aa23b8!8m2!3d40.3989138!4d49.8764681");return false;'>📍Ağa Nemətulla. 52</a></p>
                 </div>
               </div>
             </div>
@@ -121,9 +117,9 @@
                 <div class="sb-number">02</div>
                 <div class="sb-feature-text">
                   <h3 class="sb-mb-15">Nömrə</h3>
-                  <p class="sb-text">📱099 767 00 19</p>
-                  <p class="sb-text">📱077 911 19 19</p>
-                  <p class="sb-text">📱099 797 00 19</p>
+                  <p class="sb-text"><a href="" onclick='window.open("tel:+994997670019");return false;'>📱099 767 00 19</a></p>
+                  <p class="sb-text"><a href="" onclick='window.open("tel:+994779111919");return false;'>📱077 911 19 19</a></p>
+                  <p class="sb-text"><a href="" onclick='window.open("tel:+994779111919");return false;'>📱099 797 00 19</a></p>
                 </div>
               </div>
             </div>
@@ -132,7 +128,7 @@
                 <div class="sb-number">03</div>
                 <div class="sb-feature-text">
                   <h3 class="sb-mb-15">Email</h3>
-                  <p class="sb-text">info@tendirmendir.az</p>
+                  <p class="sb-text"><a href="" onclick='window.open("mailto:info@tendirmendir.az");return false;'>info@tendirmendir.az</a></p>
                 </div>
               </div>
             </div>
