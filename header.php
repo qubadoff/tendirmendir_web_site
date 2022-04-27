@@ -76,9 +76,9 @@
                                 <li>
                                     <a href="delivery.php">Çatdırılma</a>
                                 </li>
-                                <li>
+                                <!-- <li>
                                     <a href="rezerv.php">Rezervasiya</a>
-                                </li>
+                                </li> -->
                                 <li>
                                     <a href="about.php">Haqqımızda</a>
                                 </li>
@@ -86,16 +86,16 @@
                         </nav>
                         <div class="sb-buttons-frame">
                             <!-- button -->
-                            <div class="sb-btn sb-btn-2 sb-btn-gray sb-btn-icon sb-m-0">
+                            <!-- <div class="sb-btn sb-btn-2 sb-btn-gray sb-btn-icon sb-m-0">
                                 <span class="sb-icon">
                                 <a href="" onclick='window.open("tel:*0019");return false;'><b>*0019</b></a>
                                 </span>
-                            </div>
+                            </div> -->
                            <!-- button end -->
                             <!-- menu btn -->
                             <div class="sb-menu-btn"><span></span></div>
                             <!-- info btn -->
-                            <div class="sb-info-btn"><span></span></div>
+                            <div class="sb-info-btn">Əlaqə</div>
                         </div>
                     </div>
                 </div>
@@ -107,10 +107,10 @@
                         <h4> Filiallar :</h4><i class="fas fa-arrow-down"></i>
                     </div>
                     <ul class="sb-list sb-mb-30">
-                        <li><b>Tarqovi :</b>📍Mərdanov qardaşları. 1/5<br/>📱099 767 00 19</li>
-                        <li><b>İçəri şəhər :</b>📍İstiqlaliyyət. 69<br/>📱077 911 19 19</li>
-                        <li><b>N. Nərimanov :</b>📍Ağa Nemətulla. 52<br/>📱099 797 00 19</li>
-                        <li><b>İş saatları:</b><span>09:00 - 00:00</span></li><br/>
+                        <li><b>Tarqovi :</b>📍Mərdanov qardaşları. 1/5<br/>📱099 767 00 19 <br/> ⏲ 09:00 - 00:00 </li>
+                        <li><b>İçəri şəhər :</b>📍İstiqlaliyyət. 69<br/>📱077 911 19 19 <br/> ⏲ 09:00 - 00:00</li>
+                        <li><b>N. Nərimanov :</b>📍Ağa Nemətulla. 52<br/>📱099 797 00 19 <br/> ⏲ 09:00 - 00:00</li>
+                        <!-- <li><b>İş saatları:</b><span>09:00 - 00:00</span></li><br/> -->
                         <div class="sb-ib-title-frame sb-mb-30">
                         <h4> Əlaqə :</h4><i class="fas fa-arrow-down"></i>
                         </div>
