@@ -41,7 +41,7 @@
               </a>
             </div> -->
             <div class="sb-grid-item sb-item-33">
-              <a href="https://wolt.com/en/aze/baku/tendir-mendir" class="sb-blog-card sb-mb-30">
+            <a href="" onclick='window.open("https://wolt.com/en/aze/baku/tendir-mendir");return false;' class="sb-blog-card sb-mb-30">
                 <div class="sb-cover-frame sb-cover-vert sb-mb-30">
                   <img src="<?=LINK?>/assets/img/volt.gif" alt="cover">
                 </div>

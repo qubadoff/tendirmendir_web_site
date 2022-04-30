@@ -45,6 +45,7 @@
             </div>
         </div>
         <!-- preloader end -->
+
         <!-- click effect -->
         <div class="sb-click-effect"></div>
         <!-- loader -->
@@ -95,7 +96,9 @@
                             <!-- menu btn -->
                             <div class="sb-menu-btn"><span></span></div>
                             <!-- info btn -->
+                            <div class="sb-btn sb-btn-2 sb-btn-gray sb-btn-icon sb-m-0">
                             <div class="sb-info-btn">Əlaqə</div>
+                            </div>
                         </div>
                     </div>
                 </div>

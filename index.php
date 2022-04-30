@@ -18,12 +18,12 @@
                                     <h1 class="sb-mb-30">Təndir Məndir Azərbaycanın ilk milli fast food konseptində restoranlar şəbəkəsi. </h1>
                                     <p class="sb-text sb-text-lg sb-mb-30">Məqsəd – Ən çox tanınan milli brend olmaq! Dünya miqyaslı brend olmaq.</p>
                                                       <!-- button -->
-                  <a href="<?=LINK?>/menu.php?get=clopos1" class="sb-btn">
+                  <!-- <a href="<?=LINK?>/menu.php?get=clopos1" class="sb-btn">
                     <span class="sb-icon">
                       <img src="<?=LINK?>/assets/img/ui/icons/menu.svg" alt="icon">
                     </span>
                     <span>Bütün Menyu</span>
-                  </a>
+                  </a> -->
                   <!-- button end -->
                   <!-- button -->
                   <!-- <a href="about.php" class="sb-btn sb-btn-2 sb-btn-gray">
@@ -88,19 +88,7 @@
                         <div class="col-lg-6 align-self-center">
                             <div class="sb-illustration-2 sb-mb-90">
                                 <div class="sb-interior-frame">
-                                    <img src="<?=LINK?>/assets/img/tt.jpeg" alt="interior" class="sb-interior">
-                                </div>
-                                <div class="sb-square"></div>
-                                <div class="sb-cirkle-1"></div>
-                                <div class="sb-cirkle-2"></div>
-                                <div class="sb-cirkle-3"></div>
-                                <div class="sb-cirkle-4"></div>
-                                <div class="sb-experience">
-                                    <div class="sb-exp-content">
-                                        <p class="sb-h1 sb-mb-10">5</p>
-                                        <p class="sb-h3">illik təcrübə</p>
-                                    </div>
-                                </div>
+                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d451.8466920094388!2d49.84056703826342!3d40.37228198761215!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40307dd990bd1739%3A0xd1ead39d509bfe09!2zVMmZbmRpciAmIE3JmW5kaXIgRsmZdnZhcsmZbMmZciBtZXlkYW7EsQ!5e0!3m2!1saz!2s!4v1651361298370!5m2!1saz!2s" width="600" height="1000" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>                                </div>
                             </div>
                         </div>
                     </div>
@@ -118,12 +106,12 @@
                         </div>
                         <div class="sb-right sb-mb-30">
                             <!-- button -->
-                            <a href="#" class="sb-btn sb-m-0">
+                            <!-- <a href="#" class="sb-btn sb-m-0">
                                 <span class="sb-icon">
                   <img src="<?=LINK?>/assets/img/ui/icons/arrow.svg" alt="icon">
                 </span>
                                 <span> Bütün Menyu </span>
-                            </a>
+                            </a> -->
                             <!-- button end -->
                         </div>
                     </div>
@@ -204,12 +192,12 @@
                             </div>
                             <!-- slider navigation end -->
                             <!-- button -->
-                            <a href="<?=LINK?>/menu.php?get=clopos1" class="sb-btn">
+                            <!-- <a href="<?=LINK?>/menu.php?get=clopos1" class="sb-btn">
                                 <span class="sb-icon">
                   <img src="<?=LINK?>/assets/img/ui/icons/menu.svg" alt="icon">
                 </span>
                                 <span> Bütün Menyu </span>
-                            </a>
+                            </a> -->
                             <!-- button end -->
                         </div>
                     </div>

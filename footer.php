@@ -4,7 +4,7 @@
                     <div class="sb-footer-frame">
                         <a href="index.php" class="sb-logo-frame">
                             <!-- logo img -->
-                            <img src="<?=LINK?>/assets/img/ui/logo.png" alt="TendirMendir">
+                            <img src="<?=LINK?>/assets/img/ui/logo2.png" alt="TendirMendir">
                         </a>
                         <ul class="sb-social">
                             <li><a href="" onclick='window.open("https://www.facebook.com/tendirmendirbaku");return false;'><i class="fab fa-facebook-f"></i></a></li>
