@@ -40,76 +40,59 @@
                 <div class="sb-cirkle-4"></div>
                 <div class="sb-experience">
                   <div class="sb-exp-content">
-                    <p class="sb-h1 sb-mb-10">5</p>
+                    <p class="sb-h1 sb-mb-10">3</p>
                     <p class="sb-h3">İllik təcrübə</p>
                   </div>
                 </div>
               </div>
             </div>
             <div class="col-lg-6 align-self-center sb-mb-60">
-              <h2 class="sb-mb-60">Dəyərlər və prinsiplər...</h2>
-              <p class="sb-text sb-mb-30">Dəyərlər və prinsiplər — bu, hər bir təşkilat üçün möhkəm əsasdır. Biz təşkilatımızın seçdiyi mədəniyyətini tətbiq etməli və ona riayət etməli və heç bir halda onu dəyişməməliyik.</p>
+              <h2 class="sb-mb-60">Təndir Məndir milli fast food</h2>
+              <p class="sb-text sb-mb-30">2019-ci ildə ilk Təndir Məndir restoranı Istiqlaliyyət küçəsində İçəri şəhər metrosunun yaxınlığında açılmışdı. Təndir Məndir ən çox tanınan və sevilən milli yeməklərin xüsusi ilə təndirdə və manqalda bişirilən təamları yeni fast food konseptində təqdim etdi. Menyuda müxtəlif setlər, kombolar, xüsusi aksiyalar yer aldı. Keyfiyyət və müştəri rəyini əsas tutaraq, kiçik komanda və böyük arzular ilə işə başladıq. Fəaliyyətin ilk dövrü çox ağır oldu, pandemiya və onun gətirdiyi fəsadlara və gəliz iş şərtlərinə baxmayaraq, wolt və daxili çatdırılma vasitəsi ilə qısa zamanda Baki da yetərincə rəğbət və sevgi qazandıq. 2020-ci ilin axırlarında Təndir Məndir yeni filialını Nərimanov rayonunda Ağa Neymətulla küçəsində yeni express formatında təqdim etdi. Yeni filial ancaq takeaway və çatdırılma servisi göstərir, və oturacaq yerləri yoxdur. Bizim 3-cü filialımız 2022 ilin mart ayında fəvvarələr meydanında Rus dram teatrın yaxınlığında açıldı. Bu gün brendə çevrilən Təndir Məndir böyük müştəri kütləsinə malik olan 3 filialdan ibarət restoran şəbəkəsidir. Filial sayını ildən ilə artırmaq və beynəlxalq bazarlarda çıxmağa planlaşdırırıq.</p>
             </div>
           </div>
         </div>
       </section>
       <!-- About text end -->
-
       <!-- features -->
       <section class="sb-p-0-30">
         <div class="container">
+        <center><h2>Dəyərlər və Prinsiplər</h2></center>
+           <br/><br/>
           <div class="row">
-            <div class="col-lg-4">
+            <div class="col-lg-6">
               <div class="sb-features-item sb-mb-60">
                 <div class="sb-number">01</div>
                 <div class="sb-feature-text">
                   <h3 class="sb-mb-15">Ədalət</h3>
-                  <p class="sb-text">bu biznesdə bütün proseslərin və münasibətlərin əsas prinsipidir.</p>
+                  <p class="sb-text">Bu biznesdə bütün proseslərin və münasibətlərin əsas prinsipidir.</p>
                 </div>
               </div>
             </div>
-            <div class="col-lg-4">
+            <div class="col-lg-6">
               <div class="sb-features-item sb-mb-60">
                 <div class="sb-number">02</div>
                 <div class="sb-feature-text">
-                  <h3 class="sb-mb-15">Diqqətlik</h3>
-                  <p class="sb-text">hər bi detala bütün əməkdaşlar tərəfindən xüsusi diqqət yetirilir.</p>
+                  <h3 class="sb-mb-15">Keyfiyyət</h3>
+                  <p class="sb-text">Təndir Məndir ailəsinin ən əsas prinsipidir. Biz hər bir detallı ən yüksək səviyyədə etməyə çalışırıq.</p>
                 </div>
               </div>
             </div>
-            <div class="col-lg-4">
+            <div class="col-lg-6">
               <div class="sb-features-item sb-mb-60">
                 <div class="sb-number">03</div>
                 <div class="sb-feature-text">
-                  <h3 class="sb-mb-15">Təcrübə və biliklər</h3>
-                  <p class="sb-text">biz başqalarının təcrübəsindən istifadə edirik və öyrənirik, amma özümüzü onarla müqayisə etmirik və onları təqlid etmirik. </p>
+                  <h3 class="sb-mb-15">Dürüstlük</h3>
+                  <p class="sb-text">Biz özümüzlə və hər kəslə dürüst oluruq. Səhvlərimizi qəbul edib, onları düzəldirik.</p>
                 </div>
               </div>
             </div>
-            <div class="col-lg-4">
+            <div class="col-lg-6">
               <div class="sb-features-item sb-mb-60">
                 <div class="sb-number">04</div>
                 <div class="sb-feature-text">
-                  <h3 class="sb-mb-15">Təşkilatçılıq</h3>
-                  <p class="sb-text">Təndir Məndir hər bir detal cəhətdən təşkil olunmuş, hər bir şey nizamlanmış, hər bir şey tənzimlənmiş, hər bir şey yoxlanılmış və çox sayda yenidən yoxlanılmışdır. </p>
-                </div>
-              </div>
-            </div>
-            <div class="col-lg-4">
-              <div class="sb-features-item sb-mb-60">
-                <div class="sb-number">05</div>
-                <div class="sb-feature-text">
-                  <h3 class="sb-mb-15">Şəxsiyyət ləyaqəti</h3>
-                  <p class="sb-text">biz hər bir əməkdaşa hörmət edirik, çətin anlarda kömək edirik. Biz işçilər üçün rahatlıq yaradırıq və onların potensialını inkişaf etdiririk.</p>
-                </div>
-              </div>
-            </div>
-            <div class="col-lg-4">
-              <div class="sb-features-item sb-mb-60">
-                <div class="sb-number">06</div>
-                <div class="sb-feature-text">
-                  <h3 class="sb-mb-15">Loyallıq</h3>
-                  <p class="sb-text">hər bir işçi Təndir Məndir-də nə üçün işlədiyini və nə qədər dəyər verdiyini başa düşür.</p>
+                  <h3 class="sb-mb-15">Müştəri hər zaman haqlıdır</h3>
+                  <p class="sb-text">Biz həmişə müştərilərin yanındayıq, davamlı bir əlaqə yaradırıq, həmişə dinləməyə, kömək etməyə, məsuliyyət daşımağa hazırıq. Müştəridən gələn hər bir rəy diqqətlə işlənilir.</p>
                 </div>
               </div>
             </div>
@@ -124,7 +107,6 @@
           <div class="row align-items-center">
             <div class="col-lg-6">
               <div class="sb-mb-90">
-                <span class="sb-suptitle sb-mb-15">Promo video</span>
                 <h2 class="sb-mb-30">Restoranlarımız öz sahəsində ən yaxşılarıdır...</h2>
                 <p class="sb-text sb-mb-30">Restoranlarımız haqqında qısa promo videodan məlumat ala bilərsiniz.</p>
                 <!-- button -->

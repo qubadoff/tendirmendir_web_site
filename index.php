@@ -66,21 +66,21 @@
                                     <div class="sb-number">01</div>
                                     <div class="sb-feature-text">
                                         <h3 class="sb-mb-15">Təndir Məndir tarqovi</h3>
-                                        <p class="sb-text"><a href="" onclick='window.open("https://www.google.com/maps/place/1+Mardanov+Gardashlary,+Bak%C4%B1/@40.3726582,49.8402829,20z/data=!4m13!1m7!3m6!1s0x40307db037c2c653:0x6447af8b2b770a81!2s1+Mardanov+Gardashlary,+Bak%C4%B1!3b1!8m2!3d40.3726556!4d49.8404817!3m4!1s0x40307db037c2c653:0x6447af8b2b770a81!8m2!3d40.3726556!4d49.8404817");return false;'>📍Mərdanov qardaşları. 1/5 </a>, <a href="" onclick='window.open("tel:+994997670019");return false;'>📱099 767 00 19 </a></p>
+                                        <p class="sb-text"><a href="" onclick='window.open("https://goo.gl/maps/1L2daqDgAGxR5Fib9");return false;'>📍Mərdanov qardaşları. 1/5 </a>, <a href="" onclick='window.open("tel:+994997670019");return false;'>📱099 767 00 19 </a></p>
                                     </div>
                                 </li>
                                 <li class="sb-features-item sb-mb-60">
                                     <div class="sb-number">02</div>
                                     <div class="sb-feature-text">
                                         <h3 class="sb-mb-15">Təndir Məndir İçərişəhər</h3>
-                                        <p class="sb-text"><a href="" onclick='window.open("https://www.google.com/maps/place/69+%C4%B0stiqlaliyy%C9%99t+K%C3%BC%C3%A7%C9%99si,+Bak%C4%B1+1000,+Az%C9%99rbaycan/@40.3694226,49.8364531,19.46z/data=!4m5!3m4!1s0x40307db6c36b07ed:0xf18e44a1e0d571eb!8m2!3d40.3695114!4d49.8365803");return false;'>📍İstiqlaliyyət. 69 </a>,<a href="" onclick='window.open("tel:+994779111919");return false;'> 📱077 911 19 19</a></p>
+                                        <p class="sb-text"><a href="" onclick='window.open("https://goo.gl/maps/nyc6Bt4C7DkTx19F9");return false;'>📍İstiqlaliyyət. 69 </a>,<a href="" onclick='window.open("tel:+994779111919");return false;'> 📱077 911 19 19</a></p>
                                     </div>
                                 </li>
                                 <li class="sb-features-item sb-mb-60">
                                     <div class="sb-number">03</div>
                                     <div class="sb-feature-text">
                                         <h3 class="sb-mb-15">Təndir Məndir Nərimanov</h3>
-                                        <p class="sb-text"><a href="" onclick='window.open("https://www.google.com/maps/place/52+A%C4%9Fa+Nem%C9%99tulla,+Bak%C4%B1+1033,+Az%C9%99rbaycan/@40.3989179,49.8742794,17z/data=!3m1!4b1!4m5!3m4!1s0x40307d37d74ac46f:0x96ec95df68aa23b8!8m2!3d40.3989138!4d49.8764681");return false;'>📍Ağa Nemətulla. 52 </a>, <a href="" onclick='window.open("tel:+994997970019");return false;'>📱099 797 00 19</a></p>
+                                        <p class="sb-text"><a href="" onclick='window.open("https://goo.gl/maps/uxwMqxHe86UFBk5Y6");return false;'>📍Ağa Nemətulla. 52 </a>, <a href="" onclick='window.open("tel:+994997970019");return false;'>📱099 797 00 19</a></p>
                                     </div>
                                 </li>
                             </ul>
@@ -88,7 +88,9 @@
                         <div class="col-lg-6 align-self-center">
                             <div class="sb-illustration-2 sb-mb-90">
                                 <div class="sb-interior-frame">
-                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d451.8466920094388!2d49.84056703826342!3d40.37228198761215!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40307dd990bd1739%3A0xd1ead39d509bfe09!2zVMmZbmRpciAmIE3JmW5kaXIgRsmZdnZhcsmZbMmZciBtZXlkYW7EsQ!5e0!3m2!1saz!2s!4v1651361298370!5m2!1saz!2s" width="600" height="1000" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>                                </div>
+                                    <!-- <div id="map"></div> -->
+                                    <iframe src="https://my.atlistmaps.com/map/50d3b733-b2b1-486f-b328-d2a6b1c0ea2a?share=true" allow="geolocation" width="800px" height="1000px" frameborder="0" scrolling="no" allowfullscreen></iframe>
+                                </div>
                             </div>
                         </div>
                     </div>

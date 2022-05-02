@@ -84,6 +84,12 @@ p.s. I am available for Freelance hire (UI design, web development). mail: mille
 
 --------------------------------------------*/
 
+iframe {
+    width: 80%;
+    height: 500px;
+    filter: invert(100%);
+}
+
 
 /***************************
 
