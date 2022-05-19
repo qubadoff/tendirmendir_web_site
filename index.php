@@ -39,7 +39,7 @@
                         </div>
                         <div class="col-lg-6">
                             <div class="sb-illustration-1">
-                                <img src="<?=LINK?>/assets/img/tendir.jpg" alt="girl" class="sb-girl">
+                                <img src="<?=LINK?>/assets/img/tt/tendir.jpeg" alt="girl" class="sb-girl">
                                 <div class="sb-cirkle-1"></div>
                                 <div class="sb-cirkle-2"></div>
                                 <div class="sb-cirkle-3"></div>
@@ -65,22 +65,22 @@
                                 <li class="sb-features-item sb-mb-60">
                                     <div class="sb-number">01</div>
                                     <div class="sb-feature-text">
-                                        <h3 class="sb-mb-15">Təndir Məndir tarqovi</h3>
-                                        <p class="sb-text"><a href="" onclick='window.open("https://goo.gl/maps/1L2daqDgAGxR5Fib9");return false;'>📍Mərdanov qardaşları. 1/5 </a>, <a href="" onclick='window.open("tel:+994997670019");return false;'>📱099 767 00 19 </a></p>
+                                        <h3 class="sb-mb-15">Təndir Məndir Fəvvarələr Meydanı</h3>
+                                        <p class="sb-text"><a href="" onclick='window.open("<?=MAPFEVVARELER?>");return false;'>📍Mərdanov qardaşları. 1/5, Bakı, Azərbaycan (Malakan filialı) </a>, <br/><a href="" onclick='window.open("tel:+994997670019");return false;'>📱099 767 00 19 </a></p>
                                     </div>
                                 </li>
                                 <li class="sb-features-item sb-mb-60">
                                     <div class="sb-number">02</div>
                                     <div class="sb-feature-text">
-                                        <h3 class="sb-mb-15">Təndir Məndir İçərişəhər</h3>
-                                        <p class="sb-text"><a href="" onclick='window.open("https://goo.gl/maps/nyc6Bt4C7DkTx19F9");return false;'>📍İstiqlaliyyət. 69 </a>,<a href="" onclick='window.open("tel:+994779111919");return false;'> 📱077 911 19 19</a></p>
+                                        <h3 class="sb-mb-15">Təndir Məndir İçərişəhr</h3>
+                                        <p class="sb-text"><a href="" onclick='window.open("<?=MAPICHERISEHER?>");return false;'>📍İstiqlaliyyət. 69, Bakı, Azərbaycan (İçərişəhər filialı) </a>,<br/><a href="" onclick='window.open("tel:+994779111919");return false;'> 077 911 19 19</a></p>
                                     </div>
                                 </li>
                                 <li class="sb-features-item sb-mb-60">
                                     <div class="sb-number">03</div>
                                     <div class="sb-feature-text">
                                         <h3 class="sb-mb-15">Təndir Məndir Nərimanov</h3>
-                                        <p class="sb-text"><a href="" onclick='window.open("https://goo.gl/maps/uxwMqxHe86UFBk5Y6");return false;'>📍Ağa Nemətulla. 52 </a>, <a href="" onclick='window.open("tel:+994997970019");return false;'>📱099 797 00 19</a></p>
+                                        <p class="sb-text"><a href="" onclick='window.open("<?=MAPNERIMANOV?>");return false;'>📍Ağa Nemətulla. 52, Bakı, Azərbaycan (Nərimanov filialı) </a>, <br/><a href="" onclick='window.open("tel:+994997970019");return false;'>📱099 797 00 19</a></p>
                                     </div>
                                 </li>
                             </ul>
@@ -88,8 +88,13 @@
                         <div class="col-lg-6 align-self-center">
                             <div class="sb-illustration-2 sb-mb-90">
                                 <div class="sb-interior-frame">
-                                    <!-- <div id="map"></div> -->
-                                    <iframe src="https://my.atlistmaps.com/map/50d3b733-b2b1-486f-b328-d2a6b1c0ea2a?share=true" allow="geolocation" width="800px" height="1000px" frameborder="0" scrolling="no" allowfullscreen></iframe>
+                                <style> 
+                                #map { height: 900px;
+                                       width: 100%;
+                                       background-color: grey;
+                                    }
+                                </style>
+                                     <div id="map"></div>
                                 </div>
                             </div>
                         </div>
@@ -125,8 +130,8 @@
                                         <img src="<?=LINK?>/assets/img/categories/1.png" alt="icon">
                                     </div>
                                     <div class="sb-card-descr">
-                                        <h3 class="sb-mb-10">Manqal yeməkləri</h3>
-                                        <p class="sb-text">Əsas yeməkdən qabağ atıştırmalıqlar.</p>
+                                        <h3 class="sb-mb-10">Manqal yeməklri</h3>
+                                        <p class="sb-text">Əsas yeməkdən qabağ atıtırmalıqlar.</p>
                                     </div>
                                 </div>
                             </a>
@@ -184,7 +189,7 @@
                     <div class="sb-group-title sb-mb-30">
                         <div class="sb-left sb-mb-30">
                             <h2 class="sb-mb-30">Ən çox sifariş olunanlar.</h2>
-                            <p class="sb-text">Gün ərzində ən çox seçim edilən məhsullarımız...</p>
+                            <p class="sb-text">Gün ərzində n çox seçim edilən məhsullarımz...</p>
                         </div>
                         <div class="sb-right sb-mb-30">
                             <!-- slider navigation -->
@@ -206,9 +211,9 @@
                     <div class="swiper-container sb-short-menu-slider-4i">
                         <div class="swiper-wrapper">
                             <div class="swiper-slide">
-                                <a data-fancybox="menu" data-no-swup href="<?=LINK?>/assets/img/menu/sebet4.jpg" class="sb-menu-item">
+                                <a data-fancybox="menu" data-no-swup href="<?=LINK?>/assets/img/tt/sebet4.jpeg" class="sb-menu-item">
                                     <div class="sb-cover-frame">
-                                        <img src="<?=LINK?>/assets/img/menu/sebet4.jpg" alt="product">
+                                        <img src="<?=LINK?>/assets/img/tt/sebet4.jpeg" alt="product">
                                     </div>
                                     <div class="sb-card-tp">
                                         <h4 class="sb-card-title">Səbət ( 4 nəfərlik )</h4>
@@ -217,60 +222,68 @@
                                 </a>
                             </div>
                             <div class="swiper-slide">
-                                <a data-fancybox="menu" data-no-swup href="img/menu/1.jpg" class="sb-menu-item">
+                                <a data-fancybox="menu" data-no-swup href="<?=LINK?>/assets/img/tt/assorti.jpeg" class="sb-menu-item">
                                     <div class="sb-cover-frame">
-                                        <img src="<?=LINK?>/assets/img/menu/1.jpg" alt="product">
+                                        <img src="<?=LINK?>/assets/img/tt/assorti.jpeg" alt="product">
                                     </div>
                                     <div class="sb-card-tp">
-                                        <h4 class="sb-card-title">Chevrefrit au miel</h4>
-                                        <div class="sb-price"><sub>$</sub> 14</div>
+                                        <h4 class="sb-card-title">Assorti Kabab</h4>
+                                        <div class="sb-price"><sub>&#8916;</sub> 34.9</div>
                                     </div>
                                 </a>
                             </div>
                             <div class="swiper-slide">
-                                <a data-fancybox="menu" data-no-swup href="<?=LINK?>/assets/img/menu/2.jpg" class="sb-menu-item">
+                                <a data-fancybox="menu" data-no-swup href="<?=LINK?>/assets/img/tt/levengi.jpeg" class="sb-menu-item">
                                     <div class="sb-cover-frame">
-                                        <img src="<?=LINK?>/assets/img/menu/2.jpg" alt="product">
-                                        <div class="sb-badge sb-vegan"><i class="fas fa-leaf"></i> Vegan</div>
+                                        <img src="<?=LINK?>/assets/img/tt/levengi.jpeg" alt="product">
                                     </div>
                                     <div class="sb-card-tp">
-                                        <h4 class="sb-card-title">Saumon Gravlax</h4>
-                                        <div class="sb-price"><sub>$</sub> 9</div>
+                                        <h4 class="sb-card-title">Toyuq Ləvəngi</h4>
+                                        <div class="sb-price"><sub>&#8916;</sub> 9</div>
                                     </div>
                                 </a>
                             </div>
                             <div class="swiper-slide">
-                                <a data-fancybox="menu" data-no-swup href="<?=LINK?>/assets/img/menu/9.jpg" class="sb-menu-item">
+                                <a data-fancybox="menu" data-no-swup href="<?=LINK?>/assets/img/tt/quzu-tike_durum.jpeg" class="sb-menu-item">
                                     <div class="sb-cover-frame">
-                                        <img src="<?=LINK?>/assets/img/menu/9.jpg" alt="product">
-                                        <div class="sb-badge sb-hot"><i class="fas fa-pepper-hot"></i> Hot</div>
+                                        <img src="<?=LINK?>/assets/img/tt/quzu-tike_durum.jpeg" alt="product">
                                     </div>
                                     <div class="sb-card-tp">
-                                        <h4 class="sb-card-title">Croustillant de poisson</h4>
-                                        <div class="sb-price"><sub>$</sub> 4</div>
+                                        <h4 class="sb-card-title">Quzu Tikə Dürüm</h4>
+                                        <div class="sb-price"><sub>&#8916;</sub> 4</div>
                                     </div>
                                 </a>
                             </div>
                             <div class="swiper-slide">
-                                <a data-fancybox="menu" data-no-swup href="<?=LINK?>/assets/img/menu/5.jpg" class="sb-menu-item">
+                                <a data-fancybox="menu" data-no-swup href="<?=LINK?>/assets/img/tt/et-qutabi.jpeg" class="sb-menu-item">
                                     <div class="sb-cover-frame">
-                                        <img src="<?=LINK?>/assets/img/menu/5.jpg" alt="product">
-                                        <div class="sb-badge sb-vegan"><i class="fas fa-leaf"></i> Vegan</div>
+                                        <img src="<?=LINK?>/assets/img/tt/et-qutabi.jpeg" alt="product">
                                     </div>
                                     <div class="sb-card-tp">
-                                        <h4 class="sb-card-title">Carpaccio de daurade</h4>
-                                        <div class="sb-price"><sub>$</sub> 6</div>
+                                        <h4 class="sb-card-title">Ət qutabı</h4>
+                                        <div class="sb-price"><sub>&#8916;</sub> 6</div>
                                     </div>
                                 </a>
                             </div>
                             <div class="swiper-slide">
-                                <a data-fancybox="menu" data-no-swup href="<?=LINK?>/assets/img/menu/4.jpg" class="sb-menu-item">
+                                <a data-fancybox="menu" data-no-swup href="<?=LINK?>/assets/img/tt/badimcan_salati.jpeg" class="sb-menu-item">
                                     <div class="sb-cover-frame">
-                                        <img src="<?=LINK?>/assets/img/menu/4.jpg" alt="product">
+                                        <img src="<?=LINK?>/assets/img/tt/badimcan_salati.jpeg" alt="product">
                                     </div>
                                     <div class="sb-card-tp">
-                                        <h4 class="sb-card-title">Stracciatella</h4>
-                                        <div class="sb-price"><sub>$</sub> 11</div>
+                                        <h4 class="sb-card-title">Badımcan salatı</h4>
+                                        <div class="sb-price"><sub>&#8916;</sub> 11</div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a data-fancybox="menu" data-no-swup href="<?=LINK?>/assets/img/tt/dovga.jpeg" class="sb-menu-item">
+                                    <div class="sb-cover-frame">
+                                        <img src="<?=LINK?>/assets/img/tt/dovga.jpeg" alt="product">
+                                    </div>
+                                    <div class="sb-card-tp">
+                                        <h4 class="sb-card-title">Dovğa</h4>
+                                        <div class="sb-price"><sub>&#8916;</sub> 11</div>
                                     </div>
                                 </a>
                             </div>
@@ -286,7 +299,7 @@
                     <div class="sb-group-title sb-mb-30">
                         <div class="sb-left sb-mb-30">
                             <h2 class="sb-mb-30">Aşbazlarımız ilə tanış olun.</h2>
-                            <p class="sb-text">Ləzzətli təamlarımızı hazırlayıb sizin zövqünüzü oxşayan aşbaz komandamız...</p>
+                            <p class="sb-text">Ləzzətli təamlarmızı hazırlayıb sizin zövqünüzü oxşayan aşbaz komandamız...</p>
                         </div>
 
                     </div>

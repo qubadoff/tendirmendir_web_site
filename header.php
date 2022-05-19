@@ -69,9 +69,9 @@
                                 <li class="sb-has-children">
                                     <a href="#">Menyu</a>
                                     <ul>
-                                        <li><a href="<?=LINK?>/menu.php?get=clopos1">TendirMendir Tarqovi</a></li>
-                                        <li><a href="<?=LINK?>/menu.php?get=clopos2">TendirMendir İçərişəhər</a></li>
-                                        <li><a href="<?=LINK?>/menu.php?get=clopos3">TendirMendir Nərimanov</a></li>
+                                        <li><a href="<?=LINK?>/menu.php?get=clopos1">TəndirMəndir Fəvvarələr M.</a></li>
+                                        <li><a href="<?=LINK?>/menu.php?get=clopos2">TəndirMəndir İçərişəhər</a></li>
+                                        <li><a href="<?=LINK?>/menu.php?get=clopos3">TəndirMəndir Nərimanov</a></li>
                                     </ul>
                                 </li>
                                 <li>
@@ -111,8 +111,8 @@
                     </div>
                     <ul class="sb-list sb-mb-30">
                         <li><b>Tarqovi :</b>📍Mərdanov qardaşları. 1/5<br/>📱099 767 00 19 <br/> ⏲ 09:00 - 00:00 </li>
-                        <li><b>İçəri şəhər :</b>📍İstiqlaliyyət. 69<br/>📱077 911 19 19 <br/> ⏲ 09:00 - 00:00</li>
-                        <li><b>N. Nərimanov :</b>📍Ağa Nemətulla. 52<br/>📱099 797 00 19 <br/> ⏲ 09:00 - 00:00</li>
+                        <li><b>İçəri şəhər :</b>📍İstiqlaliyyət. 69<br/>077 911 19 19 <br/> ⏲ 09:00 - 00:00</li>
+                        <li><b>N. Nərimanov :</b>Ağa Nemətulla. 52<br/>📱099 797 00 19 <br/> ⏲ 09:00 - 00:00</li>
                         <!-- <li><b>İş saatları:</b><span>09:00 - 00:00</span></li><br/> -->
                         <div class="sb-ib-title-frame sb-mb-30">
                         <h4> Əlaqə :</h4><i class="fas fa-arrow-down"></i>

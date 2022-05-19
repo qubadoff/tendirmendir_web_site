@@ -51,9 +51,9 @@
                 <div class="sb-blog-card">
                   <h3 class="sb-mb-10">Wolt</h3>
                   <p class="sb-text sb-mb-15">Tərəfdaşımız #WOLT ilə uzaq məsafələr yaxınlaşır. Siz hardasınızsa bizim təamlar da ora gələ bilər. Sifariş edin, nuş olsun!</p>
-                  <a href="" onclick='window.open("https://wolt.com/en/aze/baku/restaurant/tendir-mendir-fountain-sq");return false;'><p class="sb-text sb-mb-15"><font color="blue">Fəvvarələr Meydanı</font></p></a>
-                  <a href="" onclick='window.open("https://wolt.com/en/aze/baku/restaurant/tendir-mendir");return false;'><p class="sb-text sb-mb-15"><font color="blue">Fəvvarələr Meydanı</font></p></a>
-                  <a href="" onclick='window.open("https://wolt.com/en/aze/baku/restaurant/tendir-mendir-narimanov");return false;'><p class="sb-text sb-mb-15"><font color="blue">Fəvvarələr Meydanı</font></p></a>
+                  <a href="" onclick='window.open("https://wolt.com/en/aze/baku/restaurant/tendir-mendir-fountain-sq");return false;'><p class="sb-text sb-mb-15"><font color="blue">Fəvvarələr Meydan</font></p></a>
+                  <a href="" onclick='window.open("https://wolt.com/en/aze/baku/restaurant/tendir-mendir");return false;'><p class="sb-text sb-mb-15"><font color="blue">İçəri Şəhər</font></p></a>
+                  <a href="" onclick='window.open("https://wolt.com/en/aze/baku/restaurant/tendir-mendir-narimanov");return false;'><p class="sb-text sb-mb-15"><font color="blue">Nəriman Nərimanov</font></p></a>
                 </div>
               </a>
             </div>
@@ -64,9 +64,9 @@
                 </div>
                 <div class="sb-blog-card">
                   <h3 class="sb-mb-10">Bolt</h3>
-                  <p class="sb-text">Artıq yeni tərəfdaşımız #BoltFood ilə yeni formatda bir-birindən nəfis təamlarımızı sifariş edə bilərsiniz. Nuş olsun!</p>
+                  <p class="sb-text">Artıq yeni tərəfdaşımz #BoltFood ilə yeni formatda bir-birindən nəfis təamlarımızı sifariş edə bilərsiniz. Nuş olsun!</p>
                   <a href="" onclick='window.open("https://food.bolt.eu/en-US/335-baku/p/44238-tendir-mendir-express-torgovaya");return false;'><p class="sb-text sb-mb-15"><font color="blue">Fəvvarələr Meydanı</font></p></a>
-                  <a href="" onclick='window.open("https://food.bolt.eu/en-US/335-baku/p/44235-tendir-mendir-express-narimanov");return false;'><p class="sb-text sb-mb-15"><font color="blue">Fəvvarələr Meydanı</font></p></a>
+                  <a href="" onclick='window.open("https://food.bolt.eu/en-US/335-baku/p/44235-tendir-mendir-express-narimanov");return false;'><p class="sb-text sb-mb-15"><font color="blue">Nəriman Nərimanov</font></p></a>
                 </div>
               </a>
             </div>

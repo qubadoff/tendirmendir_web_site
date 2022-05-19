@@ -19,6 +19,8 @@
         </div>
         <!-- dynamic content end -->
     </div>
+    <script src="assets/js/map/script.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBfQkP7bR-TLbna1dUpbWbDZShKkCQgcZ8&callback=initMap"></script>
     <!-- app wrapper end -->
     <!-- jquery js -->
     <script src="<?=LINK?>/assets/js/plugins/jquery.min.js"></script>
@@ -35,7 +37,7 @@
     <!-- sticky -->
     <script src="<?=LINK?>/assets/js/plugins/sticky.js"></script>
     <!-- mapbox js -->
-    <script src="<?=LINK?>/assets/js/plugins/mapbox.min.js"></script>
+    <!-- <script src="<?=LINK?>/assets/js/plugins/mapbox.min.js"></script> -->
     <!-- fancybox js -->
     <script src="<?=LINK?>/assets/js/plugins/fancybox.min.js"></script>
     <!-- starbelly js -->
